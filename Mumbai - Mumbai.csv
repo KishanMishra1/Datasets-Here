@@ -1,0 +1,812 @@
+City Name,Brand/Store Name,No. of Outlets,Full Address,Latitude,Longitude,Pincode,Area,Timing,isMall,MallName
+,,,,,,,,,,
+Mumbai,Shopper's Stop,9,"D/211, S V Road, Andheri (West), Mumbai 400058",19.1150743,72.8426492,400058,Andheri(West),,FALSE,
+,,,"C/O Khandelwal Estates, Old Bandra Talkies, Linking Road, Bandra (West), 400050",19.061234,72.836207,400050,Bandra(West),,FALSE,
+,,,"Krushal Commercial Centre, G M Road, Chembur(West), Mumbai 400089",19.0697853,72.9003827,400089,Chembur(West),,FALSE,
+,,,"Unit G/70, F53, S64 R City Mall, LBS Marg, Ghatkopar (West), 400086",19.0996854,72.9163939,400086,Ghatkopar(West),11am–9:30pm,FALSE,
+,,,"B/Eureka Towers, 9th Floor, Mindspace, Link Road, Malad (West), 400064",19.1800469,72.8342861,400064,Malad(West),11am–10pm,FALSE,
+,,,"InOrbit Mall, Plot A/1406, 28/A, Link Road, Malad (West), 400064",19.1729281,72.8359056,400064,Malad(West),11am–10pm,TRUE,
+,,,"Nirmal Lifestyles LBS Marg, Mulund (West), 400080",19.1656026,72.9351217,400080,Mulund(West),11am–9pm,FALSE,
+,,,"Unit G/A2 and F/A2, Inorbit Mall, Plot 39/1, Vashi, Navi Mumbai, 400705",19.0657994,73.0009493,400705,Navi,11am–10pm,TRUE,Inorbit Mall
+,,,"Dynamix Mall, Y J Reality Ltd, Sant Dhyaneshwar Marg, JVPD Scheme, Near Chandan Cinema Hall, Vile Parle (West), 400049",19.1146403,72.8274212,40049,Vile Parle(West),11am–9:30pm,TRUE,Dynamix Mall
+,,,,,,,,,,
+,Brand Factory,11,"Times Square , Andheri-Kurla Road , Marol Village ,Andheri East ,Mumbai -400059",19.1080069,72.8837132,400059,Andheri East,11am–9:30pm,FALSE,
+,,,"Helix-3, Old Shreyas Cinema, Lal Bahadur Shastri Rd, Near Vijay Sales, Sainath Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.094055,72.9128515,40086,Ghatkopar West,11am–9pm,FALSE,
+,,,"Umang Towers, Mindspace Complex, Behind Inorbit Mall ,Off Malad Link Road ,Malad West,Mumbai-400064",19.1756702,72.8324763,400064,Malad West,11am–9:30pm,TRUE,Mindspace Complex
+,,,"Raghuleela Mall, Opposite Vashi Station, Sector 30, Vashi, Navi Mumbai, Maharashtra 400703",19.0638681,72.9969051,400703,Navi,11am–9:30pm,TRUE,Raghuleela Mall
+,,,"Dattani Cube, Bhabola Chulna Rd, Next To Big Bazaar, Papdi, Vasai West, Vasai-Virar, Maharashtra 401201",19.3601141,72.812594,401201,Vasai West,11am–9:30pm,FALSE,
+,,,"Space 912, Mira Bhayandar Rd, Opp. Pleasant Park, Thane, Maharashtra 401107",19.2786366,72.8795634,401107,Thane,11am–9:30pm,FALSE,
+,,,"Cross Road, Tardeo Rd, Near Tardeo Ac Market, Mumbai, Maharashtra 400034",18.9757537,72.81213,40034,,11am–9:30pm,FALSE,
+,,,"Mahavir Nagar, V Souk, Opp. Kamla Sports Club, Sector 10, Kandivali West, Mumbai, Maharashtra 400067",19.212978,72.842562,400067,Kandivali West,11am–9:30pm,FALSE,
+,,,"R Mall, 1St Floor, Ghodbunder Service Rd, Dokali Pada, Manpada, Thane West, Thane, Maharashtra 400607",19.2305798,72.9773622,400607,Thane,Temporarily Closed,TRUE,R Mall
+,,,"Framjee Cawasjee Institute, Opposite Metro Cinema, Dhobi Talao, Marine Lines, Mumbai, Maharashtra 400002",18.94351,72.828598,400002,Marine Lines,11am–9:30pm,FALSE,
+,,,"Kalyan- Sarvodaya Mall,Sarvodaya Mall Shilphata Road, Near Patri Pool, Kalyan, Maharashtra 421301",19.2347201,73.1223287,421301,Kalyan,11am–9:30pm,TRUE,Kalyan - Sarvodaya Mall
+,,,,,,,,,,
+,Westside,11,"102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053",19.1286745,72.829833,400053,Andheri West,10:30am–8:30pm,TRUE,Cosmos Plaza
+,,,"Army Navy Building, Kala Ghoda, 148, Mahatma Gandhi Marg, Fort, Mumbai - 400001",18.927993,72.830923,400001,Kala Ghoda,10:30am–8:30pm,FALSE,
+,,,"Kohinoor Square-Dadar, N. C. Kelkar Marg, R. G. Gadkari Chowk, Shivaji Park, Dadar(West)",19.0249221,72.8415036,,Dadar(West),10am–6pm,FALSE,
+,,,"Phoenix Market City, Lal Bahadur Shastri Rd, Kamani, Kurla West",19.0863795,72.8889774,,Kurla WEst,11am–9pm,FALSE,
+,,,"Gold Crest Building, Gf & FF - Opp Manubhai Jewelers, L T Road, Nr. Railway Stn., Borivali (W)",19.2291309,72.8523105,,Borivali,10:30am–8:30pm,FALSE,
+,,,"67, Ground Floor - Lalbahadur Shastri Road, Amrut Nagar, Ghatkopar West",19.0991894,72.9173925,,Ghatkopar West,11am–9:30pm,FALSE,
+,,,"Inifiniti Mall 2, Ground Floor, Unit No 001 Survey No.504 - New Link Road, Near D-Mart, Rajan Pada, Malad West, Mumbai - 400064",19.1848469,72.8345642,400064,Malad West,12am–9pm,TRUE,Inifiniti
+,,,Next to Courtyard by Marriott,36.1139293,-95.8929364,,,,FALSE,
+,,,"Level 01, Haiko Mall, Central Avenue, Hiranandani Gardens, Powai, Mumabi - 400076",19.1181532,72.9111783,400076,Powai,11am–9pm,TRUE,Haiko Mall
+,,,"Infiniti Mall Near Raheja Classic Complex Oshiwara - Phase D, Shastri Nagar, Andheri West",19.1412127,72.8309064,,Andheri West,11am–9pm,TRUE,Infinity Mall
+,,,"39 N. S. Patkar Marg, Opp. Dalvi - Hospital, Mumbai - 400007",18.9587045,72.810431,400007,,10:30am–9:30pm,FALSE,
+,,,,,,,,,,
+,Pantaloons,21,"G-10 & F9a, Metro Junction Mall, Village Netivali, Shil Road, Kalyan - 421306",19.2296376,73.1234003,421306,Kalyan,11am–9:30pm,TRUE,Metro Junction Mall
+,,,"Viviana Mall, Cadbury Junction, Eastern Express Highway, Besides Jupiture Hospital, Thane-West 400601",19.2085718,72.9717188,400601,Thane West,10am–8pm,TRUE,Viviana Mall
+,,,"Runwal Mall, Opp. Richardson Cruddas Factory, Lbs Marg, Mulund (West) Mumbai -400080",19.1839411,72.9516935,400080,Mulund(West),11am–9:30pm,TRUE,Runwal Mall
+,,,"Pantaloons, Infinity Mall, Shop No 103, Near D-Mart, New Link Road, Malad West",19.1848469,72.8345642,,Malad West,11am–9:30pm,TRUE,Infinity Mall
+,,,"Darvesh Horizon, Next To Thakur Mall, Western Express Highway, Dahisar Check Post, Dahisar East, Mumbai",19.2618702,72.872981,,Dahisar East,10am–10pm,FALSE,
+,,,"Unit No. 262-263, Ii Floor, Link Road, Oshiwara, Andheri W, Mumbai – 400053",19.141266,72.830948,400053,Andheri West,11am–10pm,FALSE,
+,,,"Phoenix Market City Kurla Kaveri Estate , L B S Road, Kurla(W) Mumbai-400070",19.0863795,72.8889774,400070,Kurla West,11am–9pm,FALSE,
+,,,"Pantaloons, Growel?S 101 Mall, Akruli Road, Kandivali East, Mumbai- 400060",19.2030154,72.859757,400060,Kandivali East,11am–10pm,FALSE,
+,,,"L&T Mall, Plot R1, Sector 40, Seawoods Railway Station, Nerul Node, Navi Mumbai – 400706",19.0218844,73.0185706,400706,Navi,11am–10pm,TRUE,L&T Mall
+,,,"Sri Vallabh Shopping Centre Sv Road, Near Flyover, Borivali (W) Mumbai-400092",19.2239304,72.8538839,400092,Borivali West,11am–9pm,FALSE,
+,,,"Maxus Mall, Ff, Temba Road, Near New Flyover Bridge, Bhayander West, Thane – 401101",19.2956732,72.8487124,401101,NBhayander West,11am–10pm,TRUE,Maxus Mall
+,,,"Xperia Mall, Gf, Palava City, Dombivali, Thane, Maharashtra – 421204",19.1654748,73.0750684,421204,Thane West,11am–10pm,TRUE,Xperia Mall
+,,,"Pantaloons Woman, Little World Mall, Shop No. 120, Ff, Plot No. 21, Sector-2, Kharghar, Navi Mumbai – 410210",19.0306551,73.0664059,410210,Navi,10:30am–10pm,TRUE,Little World Mall
+,,,"Pantaloons Kids, Star Mall, Nc Kelkar Road, Opp Plaza Cinema, Dadar",19.0229667,72.8419961,,Dadar,10:30am–9pm,TRUE,Star Mall
+,,,"K-Star Mall, Store No. 3, 4, 5 & 6, First Floor, Diamond Garden, Chembur",19.0521416,72.9014469,,Chembur,11am–10pm,TRUE,K - Star Mall
+,,,"R City Mall, F18c, Lbs Marg, Ghatkopar",19.0996854,72.9163939,,Ghatkopar,10am–9pm,TRUE,R City Mall
+,,,"Shop No. 2, Beau Pride, Hill Road, Mumbai -400050",19.0551613,72.8324834,400050,,11am–9pm,FALSE,
+,,,"The Capital By Lake Shore, Gf: 02a, 02b And Ff: 01,25,26, Survey No 52 & 53, At New Link Road, Nallasopara East, Vasai",19.1898861,72.8354552,,Vasai,,FALSE,
+,,,"Ground Floor Siddhi Arcade Narangi Bypass Road, V K Nagar Virar (West) 401303",19.4621373,72.8049913,401303,,10am–4pm,FALSE,
+,,,"Kohinoor Square, N.C Kelkar Marg, R.G Gadkari Chowk, Shivaji Park, Dadar (W), Mumbai",19.024923,72.8415047,,Dadar West,11am–10pm,FALSE,
+,,,"Ff, Sf & Ff, High Street Phoenix, North Skyzone Senapati Bapat Marg Lower Parel",18.9948509,72.8252115,,,11am–10pm,FALSE,
+,,,,,,,,,,
+,Max,13,"Lower Ground Floor, City Mall Phoneix Market, Lal Bahadur Shastri Rd, Kamani, Kurla West, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,Kurla West,11am–10pm,FALSE,
+,, ,"Parle Square Mall, Agarwal Market, Vile Parle (E),",19.1002164,72.845686,,Vile Parle East,10:30am–4pm,TRUE,Parle Square Mall
+,,,"Infiniti Mall, Unit No SF201A, 1st Floor, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,Malad West,10:30am–10pm,TRUE,Infiniti Mall
+,,,"Star Mall, 1st Floor, N C. Kelkar Rd, Dadar West, Mumbai, Maharashtra 400028",19.0228207,72.8419935,400028,Dadar West,10:30am–10pm,TRUE,Star
+,,,"BN Agarwal Commercial Complex, 1st & 2nd Flr, Parle Square Mall, Monghibai Rd, Navpada, Vile Parle East, Mumbai, Maharashtra 400057",19.1002164,72.845686,400057,Vile Parle East,10:30am–4pm,TRUE,BN Agarwal Commercial Comples
+,,,"Max Retail Devision, R City Mall, No F 39, 1st Floor, Lal Bahadur Shastri Rd, Phase 2, Mumbai, 400086",19.1005564,72.9164804,400086,,10:30am–4pm,TRUE,R City Mall
+,,,"1st & 2nd Flr, Growels 101 Mall Western Express Hwy, Akurli Rd, near Police Station, Samata Nagar, Mumbai, Maharashtra 400101",19.2033444,72.8595734,400101,,11am–10pm,FALSE,
+,,,"1st Floor, R Mall, Mulund Check Naka, Mulund East, Mumbai, Maharashtra 400080",19.1840208,72.9513545,400080,Mulund East,10:30am–10pm,TRUE,R Mall
+,,,"R-Mall, Ghodbunder Road, Thane (W)",19.2305798,72.9773622,,Thane West,10:30am–10pm,TRUE,R Mall
+,,,"Service Rd, Laxmi Nagar, Thane West, Thane, Maharashtra 400601",19.2019866,72.9663611,4000601,Thane ,10:30am–10pm,FALSE,
+,,,"Inorbit Mall, No F9 & F10, 1st Floor, Palm Beach Rd, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400705",19.0657994,73.0009493,400705,Navi,10:30am–10pm,TRUE,Inorbit
+,,,"Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0211554,73.0146996,400706,Navi Mumbai,11am–10pm,FALSE,
+,,,"Saat Rasta, Mahalakshmi, Mumbai, Maharashtra 401101",18.9807362,72.8265158,401101,,10:30am–10pm,FALSE,
+,,,,,,,,,,
+,Lifestyle,7,"Phoenix Palladium, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,Lower Parel,11am–10pm,FALSE,
+,,,"UG - 45, Phoenix Market City, Lal Bahadur Shastri Rd, Kurla, Mumbai, Maharashtra 400077",19.0863795,72.8889774,400077,Kurla,11am–9:30pm,FALSE,
+,,,"Oberoi Mall, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.173808,72.8605943,400063,Goregaon,11am–9:30pm,TRUE,Oberoi
+,,,"Bus Depot, R City Mall LBS Marg, Ghatkopar West, near Vikhroli, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,Ghatkopar West,,TRUE,R City Mall
+,,,"No 639, Runwal Arcade, Lal Bahadur Shastri Rd, Mulund West, Mumbai, Maharashtra 400080",19.172488,72.9409454,400080,Mulund West,,FALSE,
+,,,"Senapati Bapat Marg, Upper Worli, Lower Parel, Mumbai, Maharashtra 400013",18.9908892,72.8236391,400013,Lower Parel,,FALSE,
+,,,"Shri Sevantilal Khandwala Marg, Malad, Asmita Jyoti Housing Society, Malad West, Mumbai, Maharashtra 400064",19.1962878,72.8274679,400064,Malad West,,FALSE,
+,,,,,,,,,,
+,Central,4,"Goregaon Central OBEROI MALL International Business Park near OBEROI GARDEN CITY, Yashodham, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,Goregaon,,TRUE,Geregaon Central OBEROI MALL
+,,,"261, Aarey Rd, Peru Baug, Jay Prakash Nagar, Goregaon, Mumbai, Maharashtra 400063",19.1662478,72.8513399,400063,Goregaon,,FALSE,
+,,,"Kandivali Central Growel's 101 Mall, Akurli Road, Off, Western Express Hwy, Mumbai, Maharashtra 400101",19.2033444,72.8595734,400101,,,TRUE,Kandivali Central Growel's Mall
+,,,"43, Colaba Causeway, Badhwar Park, Apollo Bandar, Colaba, Mumbai, Maharashtra 400005",18.9175662,72.8277277,400005,Colaba,,FALSE,
+,,,,,,,,,,
+,Accessorize,8,"Waterfield Road, Khar, Khar West, Mumbai, Maharashtra 400050",19.0622039,72.8344933,400050,Khar West,,FALSE,
+,,,"Unit UG - 63, Lal Bahadur Shastri Rd, Patelwadi.Kurla, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0869923,72.8897252,400070,Kurla West,,FALSE,
+,,,"T20B, Palladium Mall, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.9947953,72.8245836,400013,Lower Parel,,TRUE,Palladium Mall
+,,,"212, - 213, 2nd Floor, Food Court, Infiniti Mall, New Link Rd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,Malad West,,TRUE,Infiniti Mall
+,,,"Unit 05, Seawoods Station Rd, Sector 28, Seawoods, Navi Mumbai, Maharashtra 400706",19.0210288,73.0177402,400706,Navi Mumbai,,FALSE,
+,,,"Mehboob Studios, St Sebastian Colony, Ranwar, Bandra West, Mumbai, Maharashtra 400050",19.0523549,72.8251229,400050,Bandra West,,FALSE,
+,,,"F Wing, Dr Annie Besant Rd, Shiv Sagar Estate, Worli, Mumbai, Maharashtra 400018",18.9905278,72.8135081,400018,Worli,,FALSE,
+,,,"5, Prema CHS, Lokhandwala complex, Main Rd, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400053",19.1450972,72.8233145,400053,Andheri West,,TRUE,Lokhandwala Comples
+,,,,,,,,,,
+,Adidas,11,"Oberai Mall, shop no F01/02 1st floor, Oberoi Garden City, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,Goregaon,,TRUE,Oberai
+,,,"Dahisar Check Naka, 3B Shopping Commercial Bldg Orchid Ozone Off W.E. Highway Thakur Mall DB Reality, Mira Road, Mumbai, Maharashtra 401107",19.2629192,72.8743671,401107,,,FALSE,
+,,,"Shop no 1&2, KL Regalia, Linking Rd, Khar West, Mumbai, Maharashtra 400052",19.0707222,72.8341641,400052,Khar West,,FALSE,
+,,,"MAKER MAXITY, Jio World Drive Unit F12, First Floor, Bandra Kurla Complex, Mumbai, Maharashtra 400051",19.05339,72.8504402,400051,,,TRUE,Bandra Kurla Comples
+,,,"Unit 109 1ST FLOOR Infiniti Mall Link Rd.Oshiwara.Anderi-West MUMBAI Maharashtra 400053 IN, New Link Rd, Mumbai, Maharashtra",19.1412127,72.8309064,400053,Anderi West,,TRUE,Infiniti Mall
+,,,"Shop No. 225, 2nd Floor, Infiniti Mall, New Link Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,Malad West,,TRUE,Infiniti Mall
+,,,"Service Rd, Subhash Nagar, Thane West, Mumbai, Maharashtra 400606",19.2100354,72.9882368,400606,Thane West,,,
+,,,"Shop.103 Big Mall, Ghodbunder Rd, Kasarvadavali, Thane West, Mumbai, Maharashtra 400615",19.2680252,72.9649103,400615,Thane West,,TRUE,Big Mall
+,,,"Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0991894,72.9173925,400086,Ghatkopar West,,FALSE,
+,,,"Ground Floor, Nawaz Mension, 25, Shahid Bhagat Singh Rd, Colaba, Mumbai, Maharashtra 400039",18.9234801,72.8318773,400039,Colaba,,FALSE,
+,,,"HSP Parel Kids, Unit No - F-11B, Phoenix Mall Skyzone, Senapati Bapat Marg, Lower Parel West, Mumbai, Maharashtra 400013",18.9949809,72.8255004,400013,Lower Parel West,,FALSE,
+,,,,,,,,,,
+,Allen Solly,12,"Phoenix High Street, Senapati Bapat Marg, Mumbai - 400020",18.994744,72.8245993,400020,,,FALSE,
+,,,"Shop No. F11, First Floor, Sky Zone Phoenix, Lower Parel, Mumbai - 400013",18.9948509,72.8252115,400013,Lower Parel,,FALSE,
+,,,"Atria Mall, Worli, Mumbai - 400020",18.9910033,72.8143227,400020,Worli,,TRUE,Atria Mall
+,,,"Shop No. G2, Grand Galleria, Phoenix High Street, Senapati Bapat Marg, Lower Parel, Mumbai - 400013",18.9950507,72.8241397,400013,Lower Parel,,FALSE,
+,,,"Unit No. 7, Ramdas Sutrale Marg, Chandavarkar Road, Borivali, Mumbai - 400092",19.2323097,72.8535872,400092,Borivali,,FALSE,
+,,,"F-13, First Floor, Oberoi Mall, Western Express Highway, Goregaon East, Mumbai - 400063",19.173725,72.8605168,400063,Goregaon East,,TRUE,Oberoi
+,,,"Shop No. 15, Satara Park, Shimpoli Road, Near Gokhale School, Borivali West, Mumbai - 400092",19.2240288,72.8481451,400092,Borivali West,,FALSE,
+,,,"S-Mart, Shop No-21/25, Wing A, Kasturi Plaza, Manpada Road, Dombivali- East, Mumbai - 421201",19.2150952,73.0904049,421201,Dombivali East,,FALSE,
+,,,"GF 38 Viviana City Mall, Voltas Compound, Pokhran Road No. 2, Subhash Nagar, Mumbai - 400610",19.2196425,72.9597356,400610,,,TRUE,Viviana City Mall
+,,,"Shreeji Collection, Lucky Palace, Near State Bank Of India Navghar, Vasai Road West, Mumbai - 401202",19.3822755,72.8328129,401202,,,FALSE,
+,,,"Shop No. G4, Pheonix Market City Mall, L B S Marg, Kamani, Kurla, Mumbai - 400070",19.0863795,72.8889774,400070,Kurla,,TRUE,Market City Mall
+,,,"G6, Ground Floor, Inorbit Mall, Sector 30A, Vashi, Mumbai - 400705",19.0657994,73.0009493,400705,Vashi,,TRUE,Inorbit Mall
+,,,,,,,,,,
+,American Eagle,1,"Phoenix Marketcity Mall, Lal Bahadur Shastri Road, Kurla West, Kamani, Mumbai, Maharashtra - 400070",19.0863795,72.8889774,400070,,,TRUE,Phoenix Marketcity Mall
+,,,,,,,,,,
+,AND,11,"Plot No 172, Bajaj Niwas, Linking Rd, Khar, Khar West, Mumbai, Maharashtra 400052",19.0687044,72.8337366,400052,,,FALSE,
+,,,"Shop No. S-3, Second Floor, Oberoi Mall, Goregaon, Mumbai, Maharashtra 400063",19.1741226,72.8607225,400063,,,TRUE,Oberoi Mall
+,,,"Shop No G - 14 & 15, Inorbit Rd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.171952,72.8356615,400064,,,FALSE,
+,,,"FF- 51, First Floor, Phoenix Market City Mall, L.B.S., Lal Bahadur Shastri Marg, Kurla West, Mumbai, Maharashtra 400070",19.0862457,72.8892739,400070,,,TRUE,Phoenix Market City Mall
+,,,"Ground Floor, Infiniti Mall,, New Link Rd, Andheri West, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,Infiniti Mall
+,,,"Infiniti Mall - Malad,, Ground floor, Link Road, Malad-(W), Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall - Malad
+,,,"Akurli Rd, Kandivali, Akurli Industry Estate, Kandivali East, Mumbai, Maharashtra 400101",19.2015267,72.8590461,400101,,,FALSE,
+,,,"No.29, Satra Park, Shimpoli Road, Borivali West, Mumbai, Maharashtra 400092",19.2237752,72.8484955,400092,,,FALSE,
+,,,"Extension of Entry Rd to Phoenix, Lower Parel, Mumbai, Maharashtra 400013",18.993734,72.8243796,400013,,,FALSE,
+,,,"Ground Floor, Inorbit Mall, Sector No.30A, Vashi, Navi Mumbai, Maharashtra 400705",19.0657994,73.0009493,400705,Navi Mumbai,,TRUE,Inorbit Mall
+,,,,,,,,,,
+,Anita Dongre,2,"Ground Floor, Everest Classic Building, Linking Rd, Khar West, Mumbai, Maharashtra 400052",19.0731595,72.8338741,400052,,,FALSE,
+,,,"Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.9999654,72.828525,400013,,,FALSE,
+,,,,,,,,,,
+,Arrow,13,"Shop No. 1 & 4, SaiLeela Commercial Bldg., S. V. Road, Borivali (West), Mumbai - 400092",19.2260079,72.8551191,400092,Borivali (West),,FALSE,
+,,,"Sea Castle, 29, Dr NA PurandareMarg, Chowpatty, Mumbai - 400007",18.9560903,72.8126854,400007,Chowpatty,,FALSE,
+,,,"Shop No. 19, Cusrow Baugh, Colaba, Mumbai - 400001",18.9198007,72.829618,400001,Colaba,,FALSE,
+,,,"S- Mart, Shop No. 9, Kasturi Plaza, Manpada Road, Dombivali East, Mumbai - 421201",19.2151163,73.0905281,421201,Dombivali East,,FALSE,
+,,,"F-03, First Floor, Oberoi Mall Pvt. Ltd., International Business Park, Oberoi Garden City, Off Western Express Highway, Goregaon (East), Mumbai - 400063",19.173725,72.8605168,400063,Goregaon (East),,TRUE,Oberoi Mall Pvt. Ltd.
+,,,"G 16, Growels 101 mall, Akurli Road, Kandivli (East), Mumbai - 400101",19.2033444,72.8595734,400101,Kandivli (East),,TRUE,
+,,,"117 First Floor - Infiniti Mall, Infiniti Malad, Link Road, Malad West, Mumbai - 400064",19.1848469,72.8345642,400064,Malad West,,TRUE,117 First Floor - Infiniti Mall
+,,,"Mindspace, F -44, Inorbit Mall, Link Road, Malad West, Mumbai - 400064",19.1729281,72.8359056,400064,Malad West,,TRUE,Inorbit Mall
+,,,"Shop No : 2&3, Anand Villa Co-Operating Housing Society, Plot No - 65-Z, Next to Arya Samaj, Linking Road, Santacruz (West), Mumbai - 400054",19.0791537,72.8342338,400054,Santacruz (West),,FALSE,
+,,,"F-25, 1st Floor, Korum Mall, Pondey Road, Eastern Express Highway, Thane West - 400609",19.2028031,72.9653798,400609,Eastern Express Highway,,TRUE,Korum Mall
+,,,"Shop No. 2, Maruti Bhavan, Ram Maruti Road, Thane, Mumbai - 400602",19.1898022,72.9723381,400602,Thane,,FALSE,
+,,,"Centre One Shopping Mall, Plot No. 33, Sector 30 A, Vashi, Navi Mumbai - 400705",19.0671636,72.9985555,400705,Vashi,,TRUE,Centre One Shopping Mall
+,,,"Shop No. 6, First Floor, No 30/A, Inorbit Mall, Vashi, Navi Mumbai - 400705",19.0657994,73.0009493,400705,Vashi,,TRUE,Inorbit Mall
+,,,,,,,,,,
+,BATA,12,"250, Bandra Linking Road, Kanaiya Building, Bandra, 400050",19.0627702,72.8350928,400050,Bandra,,FALSE,
+,,,"51, Hill Road, Bandra (West), 400050",19.0559327,72.8345131,400050,Bandra (West),,FALSE,
+,,,"17 And 18, Mirza Ghalib Marg, Byculla Bridge, Byculla, 400008",18.970656,72.8317165,400008,Byculla,,FALSE,
+,,,"Plot 1a, Chemburkar Marg, Chembur, 400071",19.051177,72.894363,400071,Chembur,,FALSE,
+,,,"Bismilla Building, Opposite Railway Station, Dadar, 400028",19.019678,72.841993,400028,Dadar,,FALSE,
+,,,"Shop G-19b, R City Mall, Ghatkoper, 400086",19.0996854,72.9163939,400086,Ghatkoper,,TRUE,R City Mall
+,,,"Ground Floor, Metro Junction Mall, Netivalli, Kalyan, 421336",19.2296376,73.1234003,421336,Kalyan,,TRUE,Metro Junction Mall
+,,,"Sahakar Building, Station Road, Kurla (West), 400070",19.0662431,72.8788669,400070,Kurla (West),,FALSE,
+,,,"P-314, Victoria Church, L J Road, Opposite Victoria Church, Mahim, 400016",19.0345513,72.8421586,400016,Mahim,,FALSE,
+,,,"354, Matunga Mansion, 400019",19.0277101,72.8528684,400019,Matunga Mansion,,FALSE,
+,,,"Shop 3 And 4, Santoshi Mata Chc Ltd, Mumbai Central, 400008",18.967126,72.819775,400008,Mumbai Central,,FALSE,
+,,,"Jahangir Building, Dr Mascarenhas Road, Mazgaon, 400010",18.9711328,72.8407069,400010,Mazgaon,,FALSE,
+,,,,,,,,,,
+,Biba,9,"Shop 10, Ground Floor, Link Road, Infinity Mall, Andheri (West), 400001",19.1412127,72.8309064,400001,Andheri (West),,TRUE,Infinity Mall
+,,,"G-31, Runwal City, R Mall, Lbs Marg, Ghatkopar (West), 400086",19.1840208,72.9513545,400086,Ghatkopar (West),,TRUE,R Mall
+,,,"Shop S-28, 2nd Floor, Western Eastern Highway, Oberai Mall, Goregaon (East), 400067",19.173725,72.8605168,400067,Goregaon (East),,TRUE,Oberai Mall
+,,,"Biba Apparels Private Limited, Western Express Highway, Nirlon Compound, Goregaon (East), 400069",19.15242,72.8565793,400069,Goregaon (East),,FALSE,
+,,,"Shop 110, Behind Poiser Bus Depot, Raghuleela Mall, Kandivali, 400067",19.2133712,72.8491592,400067,Kandivali,,TRUE,Raghuleela Mall
+,,,"Shop 12-13, Lbs Marg, Huma Adlabs, Kanjurmarg",19.1197659,72.9256229,urmarg,Huma Adlabs,,FALSE,
+,,,"356, Ram Janaki, Linking Road, Khar (West), 400052",19.0698035,72.8334973,400052,Khar (West),,FALSE,
+,,,"Phoenix Mill Compound, Phoenix Galleria, Lower Parel, 400018",18.9893218,72.8253312,400018,Lower Parel,,FALSE,
+,,,"Unit Ff/13, 1near Goregaon Sports Club, Biba Store, Infiniti Malad, Malad Link Road, 400061",19.1822783,72.8350283,400061,Malad Link Road,,FALSE,
+,,,,,,,,,,
+,Calvin Klein,6,"2nd Floor,Shop No. S-6, Palladium Mall,High Street Phoenix, 462, Senapati Bapat Marg, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,,,TRUE,Palladium Mall
+,,,"G24,Infiniti Mall, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"Palm Lands, Dr Ambedkar Rd, Khar West, Mumbai, Maharashtra 400050",19.0618426,72.8296914,400050,,,FALSE,
+,,,"Unit UG - 23, Unit UG, 23, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0869923,72.8897252,400070,,,FALSE,
+,,,"SHOP NO. 8, H Kantilal Compound, Andheri - Kurla Rd, OPP MCDONALS, Sag Baug, Marol, Saki Naka, Mumbai, Maharashtra 400072",19.1063234,72.8851756,400072,,,FALSE,
+,,,"Ground Floor -01, Oberoi Mall, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,,,TRUE,Oberoi Mall
+,,,,,,,,,,
+,Crocs,6,"F-122, Neptune Mall, LBS Marg, Bhandup West, Mumbai - 400083",19.1417111,72.9314305,400083,Bhandup West,,TRUE,Neptune Mall
+,,,"F-64, R City Mall, LBS Marg, Ghatkopar West, Mumbai - 400086",19.0996854,72.9163939,400086,Ghatkopar West,,TRUE,R City Mall
+,,,"Shop No-F-35, 1st Floor, Oberoi Mall, Goragaon East, Mumbai - 400063",19.173725,72.8605168,400063,Goragaon East,,TRUE,Oberoi Mall
+,,,"G-10, Phoenix Market City, Kamani Junction, LBS Marg, Kurla West, Mumbai - 400070",19.0863795,72.8889774,400070,Kurla West,,FALSE,
+,,,"Shop No-18B, G/F, High Street Phoenix, Senapati Bapat Marg, Lower Parel, Mumbai - 400013",18.994744,72.8245993,400013,Lower Parel,,FALSE,
+,,,"SF-223, Infiniti Mall, Link Road, Malad West, Mumbai - 400064",19.1848469,72.8345642,400064,Malad West,,TRUE,Infiniti Mall
+,,,,,,,,,,
+,Fabindia,16,"No. 2 & 4, Navroze, 66 Pali Hill, Bandra (West), Mumbai - 400050",19.0658356,72.8282461,400050,Bandra (West),,FALSE,
+,,,"Unit No. 3 B, K-Star Mall, Diamond Garden, Chembur, Mumbai",19.0523708,72.901627,,Chembur,,TRUE,K-Star Mall
+,,,"R- City Centre, Shop no. S-39 2nd floor, L. B. S. Marg, Ghatkopar (W), Mumbai - 400086",19.0996854,72.9163939,400086,Ghatkopar (W),,FALSE,
+,,,"M/s. Oberoi Mall Private Ltd.S-25, Second Floor, Oberoi Garden City, Off. Western Express Highway, Goregaon (East), Mumbai - 400063",19.173725,72.8605168,400063,Goregaon (East),,TRUE,M/s. Oberoi Mall Private Ltd.S-25
+,,,"Jeroo Building, 137, M.G. Road, Kala Ghoda, Colaba, Mumbai - 400001",18.9286988,72.8316811,400001,Colaba,,FALSE,
+,,,"Noble House Junction of Khar Danda, 18th Road, Khar (West), Mumbai - 400052",19.0735345,72.8294797,400052,Khar (West),,FALSE,
+,,,"Phoenix Marketcity, Unit No. F-77, First Floor, L.B.S. Road, Kurla (W), Mumbai - 400070",19.0863795,72.8889774,400070,Kurla (W),,FALSE,
+,,,"Unit No.13, Grand Galleria, Phoenix Mills Compound,462, Senapati Bapat Marg, Lower Parel, Mumbai - 400013",18.994744,72.8245993,400013,Lower Parel,,FALSE,
+,,,"F-2, First Floor, Inorbit Mall, Link Road, Mind Space, Malad (West), Mumbai - 400064",19.1729281,72.8359056,400064,Malad (West),,TRUE,Inorbit Mall
+,,,"FF120, First Floor, Infiniti Malad, Link Road, Malad (West), Mumbai - 400064",19.1848469,72.8345642,400064,Malad (West),,FALSE,
+,,,"S-109 / 218, B Wing, Nirmal Lifestyles,LBS Marg, Mulund (West), Mumbai - 400080",19.0846131,72.8839713,400080,Mulund (West),,FALSE,
+,,,"Trance Ocean House, Ground Floor Unit No. G2, Hiranandani Business Park, Hiranandani Gardens, Powai, Mumbai",19.1189791,72.9125121,,Powai,,FALSE,
+,,,"Shop No A (Ground & First Floor), Victoria Plaza, Plot No. 19, S.V. Road, Santacruz (W), Mumbai - 400054",19.080222,72.837729,400054,Santacruz (W),,FALSE,
+,,,"S-20, Korum, Pokhran Road no. 1, Off Eastern Express Highway,Thane (West) - 400606",19.2028031,72.9653798,400606,Off Eastern Express Highway,,FALSE,
+,,,"Unit F 24, First Floor, Inorbit Mall, Sector 30, Vashi, Navi Mumbai - 400705",19.0657994,73.0009493,400705,Vashi,,TRUE,Inorbit Mall
+,,,"Mahran, Plot #16,Junction of Samarth Ramdas Marg &Gulmohar Cross Road No. 12,Juhu Vile Development Scheme, Vile Parle (W), Mumbai",19.1144207,72.8305692,,Vile Parle (W),,FALSE,
+,,,,,,,,,,
+,Forever 21,2,"Forever 21 Store: Phoenix Market City, Ug 72 & 73 & 74, Ff- 67 & 68 & 69, Lal Bahadur Shastri Marg, Kurla West, Mumbai 400070",19.0855991,72.8880338,400070,Kurla West,,FALSE,
+,,,"Forever 21 Store: Seawoods Grand Central,Plot No. R-1, Sector 40, Seawoods Railway Station, Navi Mumbai, Maharashtra 400706",19.0209232,73.0191867,400706,Navi Mumbai,,FALSE,
+,,,,,,,,,,
+,Forever New,7,"Jio World Mall - Shop No - F-31A, 1st Floor, Maker Maxcity",19.0536611,72.8510858,,Maker Maxcity,11am–10pm,TRUE,Jio World Mall - Shop No - F-31A
+,,,"UG 23, Phoenix Market City,Kurla, Mumbai -40007",19.0863795,72.8889774,,Kurla,11am–10pm,FALSE,
+,,,"Shop Number : 1, Link Palace, Linking Road",19.0777081,72.8346362,,Link Palace,10am–9pm,FALSE,
+,,,"Sky Zone Level 1,High Street Phoenix, Phoenix,Mills",33.6255479,-111.9757468,,Phoenix,11am–10pm,FALSE,
+,,,"Shop No. G-5,Ground Floor Oberai Mall, International Business Park,Oberoi Garden City,Western Express Highway,Goregaon",19.173725,72.8605168,,Western Express Highway,11am–11:30pm,TRUE,Ground Floor Oberai Mall
+,,,"Unit No-G3,Inorbit Mall,Link Road, Malad West,Mumbai,",19.1729281,72.8359056,,Malad West,11am–9pm,TRUE,Inorbit Mall
+,,,"Unit No UG-66,First Floor, Seawoods Grand Central, Plot No.R-1,Sector 40,Seawoods Railway Station,Nerul Node, Mumbai-400706",19.0218844,73.0185706,400706,Nerul Node,11am–10pm,FALSE,
+,,,,,,,,,,
+,Global Desi,6,"Plot No, Unit Nos. 2, 3 and 4, Corporate Plaza, 444, Linking Rd, Bajaj Wadi, Ambedkar Nagar, Khar West, Mumbai",19.070134,72.834068,,Khar West,10:30am–9:30pm,FALSE,
+,,,"462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.9940532,72.8241298,400013,Lower Parel,10am–9pm,FALSE,
+,,,"Western Express Highway Shop No. S-32. Second Floor, Goregaon, Mumbai, Maharashtra 400063",19.174067,72.860524,400063,Goregaon,11am–9:30pm,FALSE,
+,,,"Chhatrapati shivaji International Airport, Airport , Level 3 , SHA , Terminal 2 Domestic Departure, Mumbai, Maharashtra 400002",19.0903694,72.8627519,400002,Chhatrapati shivaji International Airport,,FALSE,
+,,,"Infiniti Mall, Shop no. 11, Ground, New Link Rd, Andheri West, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,Andheri West,,TRUE,Infiniti Mall
+,,,"2, Eastern Express Hwy, Subhash Nagar, Thane West, Mumbai, Maharashtra 400610",19.210723,72.9809779,400610,Thane West,11am–9pm,FALSE,
+,,,,,,,,,,
+,Globus,4,"G-16, Ground Floor, R City Mall, LBS Marg, Old Anacin Factory, Ghatkopar (w), Mumbai - 400080",19.0996854,72.9163939,400080,Ghatkopar (w),Open 24 hours,TRUE,R City Mall
+,,,"Ground Floor G 21 & F-21 Growel 101, Akurti Road, Kandivali (East) 400101",19.2033444,72.8595734,400101,Akurti Road,Closed,FALSE,
+,,,"133 Jehangir Building, M.G. Road, Fort Mumbai - 400 001",18.9290353,72.8316308,400001,"M.G. Road, Fort Mumbai",10am–9:30pm,FALSE,
+,,,"Thakur Shopping Mall & Multiplex, Gr. Floor, National Highway No 8, Mira Road, District Thane 401 107",19.2862316,72.8815778,401107,"Mira Road, Thane",,TRUE,Thakur Shopping Mall & Multiplex
+,,,,,,,,,,
+,H&M,9,"Unit LG - 14 / 14A / 15 / 26 / 27 / 27 A / 28 / 29 / 30, UG - 26, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla",19.0870699,72.8884859,,Kurla West,11am–7:30pm,FALSE,
+,,,"High Street Phoenix, Senapati Bapat Marg, Lower Parel, Mumbai",18.994744,72.8245993,,Lower Parel,11am–10pm,FALSE,
+,,,"Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai",19.0991894,72.9173925,,Ghatkopar West,11am–7:30pm,FALSE,
+,,,"Next to Jupiter Hospital, Thane West, Mumbai, Maharashtra 400606",19.2097096,72.9723931,400606,Thane West,11am–7pm,FALSE,
+,,,"Viviana Mall, Thane West, Thane, Maharashtra 400606",19.2088139,72.9713387,400606,Thane West,11am–8pm,TRUE,Viviana Mall
+,,,"Ghas Bazar, Station Road, Naupada, Bandra East, Mumbai, Maharashtra 400051",19.0564213,72.8413837,400051,Bandra East,10am–7pm,FALSE,
+,,,"Shop No. 1, Bhoomi Heights, Lokmanya Tilak Rd, Vazira, Borivali West, Mumbai, Maharashtra 400092",19.2291038,72.8448274,400092,Borivali West,9am–9pm,FALSE,
+,,,"Western Express Highway Goregaon East, Oberoi Garden City, Mumbai",19.173725,72.8605168,,Goregaon East,11am–11:30pm,FALSE,
+,,,"Kalyan - Shilphata Rd, Casa Bella Gold, Mumbai, Maharashtra",19.1687301,73.0741872,,Kalyan,11am–9:30pm,FALSE,
+,,,,,,,,,,
+,Indya,2,"Oberoi Mall General AK Vidya Marg, S 04, Second floor, Western Express Hwy, Yashodham, Goregaon, Mumbai",19.173725,72.8605168,,Goregaon,,TRUE,Oberoi Mall General AK Vidya Marg
+,,,"F - 96, Lal Bahadur Shastri Rd, Patelwadi.Kurla, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0865042,72.8891493,400070,Kurla West,11am–7:30pm,FALSE,
+,,,,,,,,,,
+,Jack & Jones,8,"Phoenix Marketcity G 20, Ground Floor, Lal Bahadur Shastri Rd, Kurla West, Kurla, Mumbai",19.0863795,72.8889774,,Kurla West,11am–9:30pm,FALSE,
+,,,"Oberoi Mall Shop No G26 Ground Floor, Goregaon, Mumbai, Maharashtra 400063",19.1739027,72.8611028,400063,Goregaon,11am–10pm,TRUE,Oberoi Mall Shop No G26 Ground Floor
+,,,"Unit No. GF 006, FF 107, INFINITI – 2, Mindspace, Malad West",19.1848469,72.8345642,,Malad West,11am–10pm,FALSE,
+,,,"Ground Floor, R City Mall, Shop No. G, 39, Lal Bahadur Shastri Rd, Ghatkopar West, Mumbai",19.0911899,72.9108026,,Ghatkopar West,11am–9:30pm,TRUE,R City Mall
+,,,"Mangal Murthi Building, 2nd Floor, Linking Rd, near Arya Samaj Mandir, Santacruz West",19.0791537,72.8342338,,Santacruz West,10am–10pm,FALSE,
+,,,"Inorbit Mall, Unit No. S 50/51, First Floor, New Link Rd, Malad West, Mumbai",19.17318682,72.83585583,,Malad West,11am–10pm,TRUE,Inorbit Mall
+,,,"The Lalit Residency, Sahar Airport Road, Hotel Sai Leela, 2, Andheri East, Mumbai",19.1053238,72.8758792,,Andheri East,11am–7:30pm,FALSE,
+,,,"Viviana Mall, G17, Eastern Express Hwy, beside Jupiter Hospital, Laxmi Nagar, Thane West, Thane, Maharashtra 400601",19.2097096,72.9723931,400601,Thane West,11am–9pm,TRUE,Viviana Mall
+,,,,,,,,,,
+,Kazo,3,"Shop F - 53 - F - 54, Lal Bahadur Shastri Rd, Kamani, Ashok Nagar, Kurla, Mumbai",19.0817883,72.881825,,Kurla,10am–10pm,FALSE,
+,,,"No.G-61, R City Mall, Lal Bahadur Shastri Marg, Ghatkopar, Mumbai, Maharashtra 400077",19.0996854,72.9163939,400077,Ghatkopar,11am–9:30pm,TRUE,R City Mall
+,,,"Shop 22, Inorbit Rd, Malad, Mindspace, Malad West, Mumbai",19.171952,72.8356615,,Malad West,10:30am–9:30pm,FALSE,
+,,,,,,,,,,
+,Lacoste,7,"Near, Shoppersstop Malad, 28/A, Plot No 1406 A, Inorbit Mall, New Link Rd, Mindspace, Malad West, Mumbai",42.1915872,-112.2507986,,Malad West,10:30am–9:30pm,TRUE,Inorbit Mall
+,,,"GF-012, UGF, Infinity Mall 2, New Link Rd, next to Goregaon Sports Club, Rajan Pada, Malad(W, Mumbai",19.1848469,72.8345642,,Malad(W,11am–9:30pm,TRUE,Infinity Mall 2
+,,,"UG-78,PHOENIX MARKET CITY MALL, LBS MARG, NR KAMANI JN, Kurla West, Mumbai",19.0863795,72.8889774,,Kurla West,10am–10:30pm,TRUE,
+,,,"G-70, R City Mall Survey No. 146-B and C.T.S. No. 166, 166, 1 to 23, Lal Bahadur Shastri Rd, Ghatkopar, W, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,Ghatkopar W,11am–9:30pm,TRUE,R City Mall Survey No. 146-B and C.T.S. No. 166
+,,,"Chandan Cinema, Shoppersstop Juhu, Dynamix Mall, Sant Dnyaneshwar Marg, next to Sant, JVPD Scheme, Juhu, Mumbai, Maharashtra",19.1146403,72.8274212,,Juhu,11am–9:30pm,TRUE,Dynamix Mall
+,,,"Chhatrapati Shivaji Maharaj International Airport, Terminal 2, S.I. Airport, New, Andheri East, Mumbai",19.0974373,72.8745017,,Andheri East,Open 24 hours,FALSE,
+,,,"Ground Floor, Shop No.1, Rehem Mansion 1, Colaba, Causeway, Shahid Bhagat Singh Rd, Marg, Mumbai",18.9115,72.8217,,Marg,10:30am–9:30pm,FALSE,
+,,,,,,,,,,
+,Gap,3,"Upper Ground and First Floor,, Infiniti Mall, Malad West, Mumbai, Maharashtra 400057",19.1848697,72.8337679,400057,Malad West,11am–10pm,TRUE,Infiniti Mall
+,,,"GF- 18, FF -14, Oberoi Mall, Ground & 1st Floor, Off, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.173808,72.8605943,400063,Goregaon,11am–9:30pm,TRUE,Oberoi Mall
+,,,"10a, Pali Mala Rd, Bandra West, Mumbai, Maharashtra 400050",19.062581,72.829616,400050,Bandra West,10am–9pm,FALSE,
+,,,,,,,,,,
+,Lee,11,"Inorbit Rd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.173679,72.836317,400064,,,FALSE,
+,,,"Infiniti Mall, KL Walawalkar Marg, Phase D, Shastri Nagar, Andheri West, Mumbai",19.1411618,72.8310538,,Andheri West,,TRUE,Infiniti Mall
+,,,"Lee Factory Outlet, Shop No.7, Raj Garden, Mahavir nagar, opp to Mahavir Bus Sto, Mumbai, Maharashtra 400067",19.2122296,72.8394779,400067,,,FALSE,
+,,,"Shop G - 64, Lal Bahadur Shastri Rd, Patelwadi.Kurla, Kamani, Kurla West, Kurla",19.0861288,72.8888794,,Kurla West,,FALSE,
+,,,"High Street Phoenix Mall, 462, Senapati Bapat Marg, Lower Parel, Mumbai",18.994744,72.8245993,,Lower Parel,,TRUE,High Street Phoenix Mall
+,,,"Amrut Nagar Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0999776,72.9142089,400086,,,FALSE,
+,,,"Palm Beach Rd, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703",19.0664269,73.0018314,400703,Navi Mumbai,,FALSE,
+,,,"HOP NO-44, 1ST FLOOR, VIVIANA MALL, Pokharan Rd Number 2, near JUPITOR HOSPITAL, SUBHAS NAGAR, Mumbai, Maharashtra 400610",19.2087175,72.9715119,400610,,,TRUE,
+,,,"viviana mall, Thane, Maharashtra",19.2087175,72.9715119,,Thane,,TRUE,
+,,,"SHOP NO-44, 1ST FLOOR, VIVIANA MALL, Pokharan Rd Number 2, near JUPITOR HOSPITAL, Subhash Nagar, Mumbai, Maharashtra 400610",19.2087175,72.9715119,400610,,,TRUE,
+,,,"22C9+V6M, Nerul East, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,Navi Mumbai,,FALSE,
+,,,,,,,,,,
+,Levi's ,17,"Shop G - 70, Shop No G70, Lower Ground Floor, Pheonix Market City Mall Mukund Company, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla",19.0863795,72.8889774,,Kurla West,,TRUE,Pheonix Market City Mall Mukund Company
+,,,"Phoenix Mall Compound , 21, Skyzone, Ground Floor, Phase-2A, Lower Parel West",18.9971465,72.8272331,,Phase-2A,,TRUE,Phoenix Mall Compound
+,,,"G-101 F-101, Link Rose, Plot#63E, Linking Rd, Santacruz, Mumbai, W, Mumbai",19.0774075,72.8345412,,,,FALSE,
+,,,"First Floor,LBS Road, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai",19.0996854,72.9163939,,Ghatkopar West,,FALSE,
+,,,"Oberoi Mall, Unit-33 1, Off, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.1437704,72.8551596,400063,,,TRUE,Oberoi Mall
+,,,"Infiniti 2, Shop No 111, 1st Floor, New Link Rd, next to D-Mart, Mumbai",19.1848469,72.8345642,,next to D-Mart,,FALSE,
+,,,"Ground Floor, Kenilworth Shopping Arcade, Plot No. 505, TPS 111, CTS F 138, Linking Rd, Bandra West, Mumbai, Maharashtra 400050",19.0656153,72.8341935,400050,,,FALSE,
+,,,"First Floor, Store No. S 104, Infinity Mall City Survey, New Link Rd, Oshiwara, Andheri West",19.1896833,72.835455,,Oshiwara,,TRUE,Infinity Mall City Survey
+,,,"Shop No. 3 & 4, Avishkar Shopping Centre Gulmohar Cross road, Om Jewellers Lane Vodafone Gallery, Borivali (W Mumbai-400092,",19.2302611,72.853201,40092,Borivali (W Mumbai-400092,,FALSE,
+,,,"Ground Floor, Crescent House, No 27, Colaba, Mumbai, Maharashtra 400005",18.9233232,72.83182,400005,,,FALSE,
+,,,"Ground Floor, K Star Mall, Shop No.2B, Sion - Trombay Rd, Chembur, Mumbai",19.0523708,72.901627,,Chembur,,TRUE,K Star Mall
+,,,"Mind Space, Shop F36 & 37 First Floor, Inorbit Mall, Malad West, Mumbai, Maharashtra",19.1834447,72.8324277,,,,TRUE,Inorbit Mall
+,,,"No 21, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",19.0051161,72.8311868,400013,,,FALSE,
+,,,"Electric House, Cusrow Baug, Shop-03, Floor-Ground A Block, Shahid Bhagat Singh Rd, Colaba, Mumbai, Maharashtra 400001",18.9205212,72.8302519,400001,,,FALSE,
+,,,"Gf18, Viviana Mall, Voltas Compound, Pokharan Rd Number 2, next to Jupiter Hospital, Subhash Nagar, Thane West, Thane, Maharashtra 400610",19.2085433,72.9716212,400610,Thane,,TRUE,Viviana Mall
+,,,"Western Express Hwy, Ketkipada, Dahisar East, Mumbai, Maharashtra 401107",19.2610595,72.8730903,401107,,,FALSE,
+,,,"Unit No - Ug10 & Ug11, Ground Flr, Korum Mall, Nr. Cadbury Compound, Easternexpress Highway, Thane, Mangal Pandey Road, Thane, Maharashtra 400606",19.2028749,72.9651598,400606,Thane,,TRUE,Korum Mall
+,,,,,,,,,,
+,Mango ,2,"Lal Bahadur Shastri Rd, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0723864,72.8756851,400070,,,FALSE,
+,,,"high street Phoenix Mall, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,,,TRUE,high street Phoenix Mall
+,,,,,,,,,,
+,Manyavar,10,"Ground Floor, 2 159, New Bunglow, Rajni House Lokmanya Tilak Road opp. Don Bosco School, Vazira, Borivali West, Mumbai, Maharashtra 400092",19.2296797,72.8422114,400092,,,FALSE,
+,,,"Unit No.208, Infinity Mall 2nd Floor, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity Mall 2nd Floor
+,,,"Unit No 9, Ground Floor, Infiniti Mall Link Road, Phase D, Oshiwara, Lokhandwala Complex, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,Infiniti Mall Link Road
+,,,"Next Roop Kala, Shop No 1, Lemagasin, Swami Vivekananda Rd, Santacruz West, Mumbai, Maharashtra 400054",19.081738,72.83766,400054,,,FALSE,
+,,,"R City Mall, Unit No F/25, 1st Floor, Lal Bahadur Shastri Rd, South Wing, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Shop No: 46, Satra Park, Shimpoli Rd, near Reliance Mall, Gautam Nagar, Borivali West, Mumbai, Maharashtra 400092",19.2237975,72.8501333,400092,,,TRUE,near Reliance Mall
+,,,"Level 3, Terminal 2, Chhatrapati Shivaji International Airport SRA, Domestic, Departure, Mumbai, Maharashtra 400099",19.0965797,72.8738064,400099,,,FALSE,
+,,,"First Floor, Aura Biplex, Swami Vivekananda Rd, Shastri Nagar, Borivali West, Mumbai, Maharashtra 400092",19.2190208,72.851734,400092,,,FALSE,
+,,,"199-201, Kalbadevi Road, near Cotton Exchange, Charni Road East, Ovalwadi, Champa Wadi, Kalbadevi, Mumbai, Maharashtra 400002",18.9517848,72.8298623,400002,,,FALSE,
+,,,"UN F 05, International Business Park Oberoi Garden City, Western Express Hwy, Mumbai, Maharashtra 400063",19.1701339,72.8602807,400063,,,FALSE,
+,,,,,,,,,,
+,Marks & Spencer,13,"LG 03 A, Infinity II Mall, New Link Rd, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity II Mall
+,,,"Corner of, &, Waterfield Road, Hill Rd, Bandra West, Mumbai, Maharashtra 400050",19.0559858,72.8341277,400050,,,FALSE,
+,,,"Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0991894,72.9173925,400086,,,FALSE,
+,,,"Unit 27 / 28, 28, Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400053",19.1736584,72.8599789,400053,,,FALSE,
+,,,"Block - 2, 462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.994926,72.8252838,400013,,,FALSE,
+,,,"Unit LG - 23, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Chhatrapati shivaji International Airport, Terminal 2, Domestic Departures, Level 3, Andheri East, Mumbai, Maharashtra 400099",19.098198,72.874498,400099,,,FALSE,
+,,,"Ground floor, Inorbit Mall, Malad West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Inorbit Mall
+,,,"Chhatrapati Shivaji International Airport Domestic Level 3 Chhatrapati Shivaji International Airport Terminal 2 Andheri, Kurla Road, Mumbai, Maharashtra 400099",19.0903694,72.8627519,400099,,,FALSE,
+,,,"Samarth Aishwarya apartment New Link Road, Oshiwara, Off, KL Walawalkar Marg, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400053",19.1454501,72.8292449,400053,,,FALSE,
+,,,"38A, Phoenix Market City Mall Unit No.G22,23,24A,UG 37,38, 39C, Lal Bahadur Shastri Rd, Kurla West, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,TRUE,Phoenix Market City Mall Unit No.G22
+,,,"Infiniti II , Malad west Shop No.9/10, UG Floor Infiniti Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,UG Floor Infiniti Mall
+,,,"G-32, Inorbit Mall, Palm Beach Rd, Sector 30A, Mumbai, Maharashtra 400705",19.0657994,73.0009493,400705,,,TRUE,Inorbit Mall
+,,,"Railway Station, Grand Central Mall, Seawood UG-Unit no-28, Sector 40, next to Seawood, Seawoods, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,TRUE,Grand Central Mall
+,,,,,,,,,,
+,Mufti,6,"Unit F, 44, Lal Bahadur Shastri Rd, Ghatkopar West, Mumbai, Maharashtra 400086",19.091235,72.9108678,400086,,,FALSE,
+,,,"Unit No.134, First Floor, Infiniti Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"Ground Floor Phoenix Market City, Lal Bahadur Shastri Rd, Kurla West, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"39, Hill Rd, Matunga Central Railway Workshop, Hanuman Nagar, Bandra West, Mumbai, Maharashtra 400050",19.0555643,72.8335366,400050,,,FALSE,
+,,,"Unit No. F-06A, Growel's 101 Mall, Akurti Road, Kandivali East, Mumbai, Maharashtra 400101",19.2033444,72.8595734,400101,,,TRUE,Growel's 101 Mall
+,,,"4V99+542, Chakala Industrial Area (MIDC), Andheri East, Mumbai, Maharashtra 400093",19.1178875,72.8677656,400093,,,FALSE,
+,,,,,,,,,,
+,Nautica,5,"First Floor - 20, Oberoi Mall, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,,,TRUE,Oberoi Mall
+,,,"462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.9940532,72.8241298,400013,,,FALSE,
+,,,"Shop Ug - 80, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Unit Ff 119, 1st Floor, Infiniti Mall 2, New Link Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1411618,72.8310538,400064,,,TRUE,Infiniti Mall 2
+,,,"Shop No. 3 , Luis Belle Building, 30th Road, Dr KB Hedgewar Road, Bandra West, Mumbai, Maharashtra 400050",19.062504,72.830892,400050,,,FALSE,
+,,,,,,,,,,
+,Nike,12,"Eastern Express Hwy, beside Jupiter Hospital, Subhash Nagar, Thane West, Thane, Maharashtra 400606",19.2097096,72.9723931,400606,,,FALSE,
+,,,"7 & 8, Prerna CHS, 4 Lokhandwala Cmplx SS cross Rd, Andheri, Opp HDFC bank, Mumbai, Maharashtra 400053",19.1465835,72.8233588,400053,,,FALSE,
+,,,"Harbour View, SN 2, 29, Colaba Causeway, Opp Bank Of Baroda, Mumbai, Maharashtra 400039",18.9231464,72.8317457,400039,,,FALSE,
+,,,"SN 118, 1st Flr, Infiniti Mall, Andheri Link Rd, Opp to levis, Andheri West, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,Infiniti Mall
+,,,"R City Mall, Shop No F32 1st Floor, Phase 1, LBR Marg, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",19.1717979,72.8591046,400063,,,FALSE,
+,,,"SN 2 & 3 Telephone Exchange, Linking Rd, opp. Khar, Shyam Vihar, Mumbai, Maharashtra 400052",19.0681316,72.8333574,400052,,,FALSE,
+,,,"G 53/54, Pheonix Market City Opp to Van Heusen, Lal Bahadur Shastri Rd, Kurla West, Mumbai, Maharashtra 400070",19.086601,72.888974,400070,,,FALSE,
+,,,"UNIT G-003 ,BALAJI BUSINESS PARK CO OP PREMISES SOCIETY, near Time Square Building, Marol, Andheri East, Mumbai, Maharashtra 400059",19.1078138,72.8824468,400059,,,FALSE,
+,,,"R-mall Ground Floor, Lal Bahadur Shastri Rd, Kamgar Colony, Mulund West, Mumbai, Maharashtra 400080",19.1837953,72.9519821,400080,,,TRUE,
+,,,"Ramee Emerald II, 85, Linking Rd, opp. ICICI Bank, Vithaldas Nagar, Santacruz West, Mumbai, Maharashtra 400054",19.0758833,72.834604,400054,,,FALSE,
+,,,,,,,,,,
+,ONLY,10,"Malad Link Road G-007, Ground Floor, Mumbai, Maharashtra 400064",19.1898455,72.835455,400064,,,FALSE,
+,,,"Shop No. 06, Ground Floor, A Wing, Rizvi House Plot No. 34, 35-A, 36 & 36-A (CTS No. F/1117, F/1118 and F/1119, Hill Rd, near Himalaya Store, TPS II, Bandra West, Mumbai, Maharashtra 400050",19.0561107,72.834953,400050,,,FALSE,
+,,,"Oberoi Mall, Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",19.173808,72.8605943,400063,,,TRUE,Oberoi Mall
+,,,"Upper Ground Floor, Lal Bahadur Shastri Rd, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"G16, Senapati Bapat marg, High street Phoneix, Lower Parel, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,,,FALSE,
+,,,"First Floor, Premises No. 101 DLH Mangalmurti Building, Plot No 82/29, Linking Rd, Santacruz East, Mumbai, Maharashtra 400059",19.0804792,72.8342486,400059,,,FALSE,
+,,,"Shop No. G-59, Inorbit Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400104",19.1729281,72.8359056,400104,,,TRUE,Inorbit Mall
+,,,"GROUND FLOOR, Infiniti Mall, 002, New Link Rd, Phase D, Oshiwara, Andheri (W, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,Infiniti Mall
+,,,"Seawoods Station Rd, Nerul East, Sector 28, Nerul, Navi Mumbai, Maharashtra 400706",19.021679,73.0170403,400706,,,FALSE,
+,,,"Ground Floor, Inorbit Mall, G-24, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703",19.0657994,73.0009493,400703,,,TRUE,Inorbit Mall
+,,,,,,,,,,
+,Pepe Jeans,16,"R City Mall, Shop No. F29, 1st, Lal Bahadur Shastri Rd, Ghatkopar, W, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Apartments, Amiya, Plot No. 63-A, Ground And, Linking Rd, Santacruz West, Mumbai, Maharashtra 400052",19.0747223,72.8342148,400052,,,FALSE,
+,,,"111, Infinity Mall, New Link Rd, Azad Nagar, Andheri West, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,Infinity Mall
+,,,"Inorbit Mall(India) Pvt. Ltd, New Link Rd, Malad, Mindspace, Goregaon West, Mumbai, Maharashtra 400064",19.1730327,72.8356308,400064,,,TRUE,Inorbit Mall(India) Pvt. Ltd
+,,,"Dhenu Building, Dr Baba Saheb Ambedkar Rd, Mumbai, Maharashtra 400012",19.0025039,72.8386248,400012,,,FALSE,
+,,,"Shop No. S218, 2nd Floor, Infiniti Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"Shop No. F 19 1st Floor, Oberoi Mall, Off, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.1738214,72.8603471,400063,,,TRUE,Oberoi Mall
+,,,"39, Hill Rd, Matunga Central Railway Workshop, Hanuman Nagar, Bandra West, Mumbai, Maharashtra 400050",19.0555643,72.8335366,400050,,,FALSE,
+,,,"Shop No. G-62, Ground Floor Phoenix Market City, Lal Bahadur Shastri Rd, Kurla West, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Atria The Millennium Mall, Shop No 213, 2nd Floor, Dr Annie Besant Road,, Worli, Mumbai, Maharashtra 400018",18.9910033,72.8143227,400018,,,TRUE,Atria The Millennium Mall
+,,,"Shop No. F135, 1st Floor Infiniti Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1412127,72.8309064,400064,,,TRUE,1st Floor Infiniti Mall
+,,,"113a, Ghodbunder Rd. Big Shopping Center, 14-34, Survey, Mumbai, Maharashtra 400607",19.2190485,72.9778644,400607,,,FALSE,
+,,,"6X38+648, Samata Nagar, Thane West, Thane, Maharashtra 400606",19.2030375,72.9653281,400606,,,FALSE,
+,,,"Unit FF007, 2, Service Rd, Subhash Nagar, Thane West, Thane, Maharashtra 400606",19.2084406,72.9715905,400606,,,FALSE,
+,,,"Big Shopping Centre, Survey No.14 to 34, Ghodbunder Road, Kasarvadawali Gaon Shop No. 113A, 1st Floor, Owale, Thane, Maharashtra 400607",19.2717379,72.9603455,400607,,,FALSE,
+,,,"Big mall, thane, Mulund West, Mumbai, Maharashtra 400080",19.1840208,72.9513545,400080,,,TRUE,
+,,,,,,,,,,
+,Peter England,19,"Cusrow Baug, PETER ENGLAND - GF's , shop No .11/A, Colaba Causeway, Colaba, Mumbai, Maharashtra 400039",18.920506,72.828766,400039,,,FALSE,
+,,,"Unit No. 9, Mayfair 14, Tulsi Baug, Plot No. 17A Ramdas Sutrale Marg, Off, Chandavarkar Rd, Borivali West, Mumbai, Maharashtra 400092",19.2321452,72.8536671,400092,,,FALSE,
+,,,"Infinity Mall, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity Mall
+,,,"Pearl Hotel Building, Shop No. 7 & 8, 19th Rd, Chembur, Mumbai, Maharashtra 400071",19.0604159,72.8991006,400071,,,FALSE,
+,,,"Gautam Towers, Shop No16, Gokhale Rd, Naupada, Thane West, Mumbai, Maharashtra 400602",19.1868739,72.9700175,400602,,,FALSE,
+,,,"Shop No. 4, Chandra Pushpa Building, Opposite New Post Office, Hirachand Desai Road, Ghatkopar West 2, Mumbai, Maharashtra 400086",19.0699229,72.8777377,400086,,,FALSE,
+,,,"Shop No. 3, Spenta Mansion, Swami Vivekananda Rd, Andheri West, Mumbai, Maharashtra 400059",19.1234101,72.8457532,400059,,,FALSE,
+,,,"Unit Number F-16, First Floor, R City, Lal Bahadur Shastri Rd, Ghatkopar, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,FALSE,
+,,,"Laxmi Cottage, Dr Baba Saheb Ambedkar Rd, Krishna Nagar, Parel, Mumbai, Maharashtra 400012",19.0025538,72.8382316,400012,,,FALSE,
+,,,"Store No. 133, First Floor, Infinity Mall, Malad, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity Mall
+,,,"No. 12, Shimpoli Road, Borivalli - 2, Mumbai, Maharashtra 400092",19.2212199,72.8460175,400092,,,FALSE,
+,,,"F-18,Korum Mall, Shahid Mangal Pandey Rd, Samata Nagar, Thane West, Mumbai, Maharashtra 400602",19.2028031,72.9653798,400602,,,TRUE,Korum Mall
+,,,"Evershine Millennium Paradise, 45,, 13, Gokul Towers Rd, Thakur Nagar, Evershine Millennium Paradise, Thakur Village, Kandivali East, Mumbai, Maharashtra 400101",19.2108374,72.8756792,400101,,,FALSE,
+,,,"Shop No. GO 2 B, Ground & Mazzanine Floor Propect Chambers Fort,, Mumbai, Maharashtra 400001",18.934042,72.832722,400001,,,FALSE,
+,,,"Shop 18, Sanjay Mittal Ind estate, Andheri - Kurla Rd, Mumbai, Maharashtra 400059",19.1042819,72.882193,400059,,,FALSE,
+,,,"FF-20, Viva City Mall, Voltas Compound, Pokhran, Road No. 2, Subhash Nagar, Thane West, Thane West, Mumbai, Maharashtra 400610",19.2085433,72.9716212,400610,,,TRUE,Viva City Mall
+,,,"Shrushti Plaza, Shop no 1,2, Ram Maruti Rd, opp. Rajmata Vadapav Center, Thane, Maharashtra 400602",19.1889819,72.9724349,400602,,,FALSE,
+,,,"SHOP NO.1 &2, Ram Maruti Rd, opposite RAJMATA VADAPAV BESIDES BANK OF BARODA, Srishti Complex, Thane, Maharashtra 400602",19.1892076,72.9721277,400602,,,FALSE,
+,,,"unit no.G-57 L.B.S.Marg, Phoenix Market City Mall, Kurla, W, Maharashtra 400070",19.0863795,72.8889774,400070,,,TRUE,Phoenix Market City Mall
+,,,"NEAR KHATRI COPOUND, AMRAVATI, Maharashtra 444601",20.935041,77.7566075,444601,,,FALSE,
+,,,,,,,,,,
+,Puma,19,"Shop No. F, 6, New Link Rd, Laxmi Industrial Estate, Suresh Nagar, Andheri West, Mumbai, Maharashtra 400053",19.135347,72.830359,400053,,,FALSE,
+,,,"Shop No.227, 2nd Floor, Infinity Mall, New Link Rd, Mindspace, West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity Mall
+,,,"Durga Chambers, Linking Rd, near KHAR DANDA, next to Tanshiq SHOWROOM, SIGNAL, Khar Danda, Mumbai, Maharashtra 400052",19.0724399,72.8338289,400052,,,FALSE,
+,,,"G - 44, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Electric House, 73, Aspara Bldg, Colaba Causeway, Colaba, Mumbai, Maharashtra 400039",18.921389,72.8311798,400039,,,FALSE,
+,,,"PUMA Store, Western Express Hwy, Ketkipada, Dahisar, Mumbai, Maharashtra 401107",19.262356,72.87414,401107,,,FALSE,
+,,,"Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.9999654,72.828525,400013,,,FALSE,
+,,,"G-02, Growel's 101 Mall, Akurli Rd, Kandivali East, Mumbai, Maharashtra 400101",19.2033444,72.8595734,400101,,,TRUE,Growel's 101 Mall
+,,,"Shop # LG/44, Phoenix Market City, LBS Marg, Kurla (W) Mumbai, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"High Street Phoenix, Lower Parel, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,,,FALSE,
+,,,"Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400077",19.0991894,72.9173925,400077,,,FALSE,
+,,,"Umaragain Building, Dr Baba Saheb Ambedkar Rd, Parel, Mumbai, Maharashtra 400012",18.9991824,72.83773,400012,,,FALSE,
+,,,"Shop No 2 , Ground Floor, 360° Business Park, Lal Bahadur Shastri Rd, next to R Mall, Mulund West, Mumbai, Maharashtra 400080",19.1840208,72.9513545,400080,,,TRUE,next to R Mall
+,,,"SHOP NO:RG-5&6,KORUM MALL, MANGAL PANDEY ROAD, (VILLAGE PANCH PAKHDI THANE, Mum, Mumbai, Maharashtra 400601",19.2028031,72.9653798,400601,,,TRUE,
+,,,"43, Veer Nariman Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",18.9321134,72.8326751,400001,,,FALSE,
+,,,"Shop-105, Big Shopping Centre, Hyper City Mall,Ghod Bunder Road, Thane, W)-01, Mumbai, Maharashtra 400607",19.2680252,72.9649103,400607,,,TRUE,Hyper City Mall
+,,,"Shop No. 1 & 2, Shiv Shurshti Co-Op HSG. SOC.LTD Kandivali, MHADA layout, Charkop, New Link Rd, Kandivali, Mahavir Nagar, Kandivali West, Mumbai, Maharashtra 400067",19.1973286,72.8434666,400067,,,FALSE,
+,,,"2, Eastern Express Hwy, Laxmi Nagar, Thane West, Thane, Maharashtra 400610",19.2083111,72.971604,400610,,,FALSE,
+,,,"matri park, Building No 5, Shop 3&4, Sion - Trombay Rd, Chembur, Mumbai, Maharashtra 400071",19.0466198,72.9021972,400071,,,FALSE,
+,,,,,,,,,,
+,Reebok,12,"Unit No.115 Infiniti Mall First Floor, New Link Rd, Andheri (W, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,Unit No.115 Infiniti Mall First Floor
+,,,"Unit LG - 52, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863579,72.8898509,400070,,,FALSE,
+,,,"1st floor inside R city mall, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,
+,,,"DB Reality shop no.3b, Ground floor, DB Ozone Orchid, Western Express Hwy, Dahisar East, Mumbai, Maharashtra 400068",19.2611945,72.8735506,400068,,,FALSE,
+,,,"Inorbit Rd, Malad, Mindspace, Goregaon West, Mumbai, Maharashtra 400104",19.1729157,72.8360088,400104,,,FALSE,
+,,,"Lg-51, Lower Ground, Phoenix Market City Kurla, Kamani Junction, Kurla West, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Reebok Store Shop No. – 222, 2nd Floor, Infiniti Mall, New Link Rd, near Goregaon Sports Club, Malad West, Mumbai, Maharashtra 400064",19.184698,72.8342963,400064,,,TRUE,Infiniti Mall
+,,,"Dr Ambedkar Road, Parel, Mumbai, Maharashtra 400012",18.9974366,72.8375651,400012,,,FALSE,
+,,,"Shp No. F-11, Rcity Mall, First Floor, Lbs Road Ghatkopar (W) Mumbai 400086, Mumbai, Maharashtra 400083",19.0996854,72.9163939,400083,,,TRUE,Rcity Mall
+,,,"FF-16, Vivana Mall, Eastern Express Hwy, Thane, Maharashtra 400606",19.2087175,72.9715119,400606,,,TRUE,Vivana Mall
+,,,"1st Floor,Shop, Big Mall Thane, no 103, Ghodbunder Rd, Kasarvadavali, Thane West, Mumbai, Maharashtra 400615",19.2679669,72.9648317,400615,,,TRUE,Big Mall Thane
+,,,"8, Dr Baba Saheb Ambedkar Rd, Parel East, Byculla, Mumbai, Maharashtra 400027",18.9953234,72.8364768,400027,,,FALSE,
+,,,,,,,,,,
+,Reliance Trends,18,"Ground floor, New Era, Ashok Mill Compound Road, Matunga West, Mogul Ln, Mahim, Mumbai, Maharashtra 400016",19.0316076,72.8460975,400016,,,FALSE,
+,,,"UG - 44, Lal Bahadur Shastri Rd, Kamani, Ashok Nagar, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"85, Main Street Mall, Hill Road Nr Elco Market, Maharashtra 400050",19.055997,72.8335599,400050,,,TRUE,Main Street Mall
+,,,"Sangam Complex, Andheri Kurla Road, Opp Of Msc, Next To Divine High School,Besides Sangam Carnival Cinemas, Dr. Charatsingh Colony, S B Singh Colony, J B Nagar, Andheri East, Mumbai, Maharashtra 400059",19.1124921,72.8648753,400059,,,FALSE,
+,,,"D Victoria Mall, B-2, Shimpoli Road, Gautam Nagar, Borivali West, Mumbai, Maharashtra 400092",19.2237975,72.8501333,400092,,,TRUE,D Victoria Mall
+,,,"Reliance Trends - Dhirubhai Ambani International School Block, 46, Trident Road, Ba, Mumbai, Maharashtra 400051",19.0666803,72.8704831,400051,,,FALSE,
+,,,"5RMM+VQP, Malad, Mindspace, Goregaon West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,FALSE,
+,,,"R City Mall, Reliance Trends S52/53, Second Floor, Lal Bahadur Shastri Rd, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Subhash Nagar, Thane West, Mumbai, Maharashtra 400610",19.2155309,72.9765284,400610,,,FALSE,
+,,,"Growels 101 Mall, Akurli Road, Kandivali East, Mumbai, Maharashtra 400101",19.2033444,72.8595734,400101,,,TRUE,Growels 101 Mall
+,,,"Acme Mall, Swami Vivekananda Rd, Rizvi Nagar, Khira Nagar, Santacruz West, Mumbai, Maharashtra 400054",19.0886649,72.8375623,400054,,,TRUE,Acme Mall
+,,,"D Victoria Mall, Shimpli Road, Opp. Shimpoli Police Chowki, Mumbai, Maharashtra 400092",19.2238477,72.8498642,400092,,,TRUE,D Victoria Mall
+,,,"5RXV+W2H, Balasinor Society, Kandivali West, Mumbai, Maharashtra 400067",19.1998125,72.8426094,400067,,,FALSE,
+,,,"1st floor,R mall, Kamgar Colony, Mulund West, Mumbai, Maharashtra 400080",19.1840208,72.9513545,400080,,,TRUE,
+,,,"LG-001/A, Infiniti Mall, New Link Road, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"Shahid Mangal Pandey Rd, Samata Nagar, Thane West, Thane, Maharashtra 400606",19.2024622,72.9661483,400606,,,FALSE,
+,,,"268,NEW ERA MILLS , MOGHUL LANE, near ANAND SAGAR HOSPITAL, Mumbai, Maharashtra 400016",19.0315278,72.8464519,400016,,,FALSE,
+,,,"DC, Reliance Brands Limited,2nd floor, Seawoods Grand Central,Plot R-1,, Seawoods Station Rd, Seawoods West, Sector 40, Nerul, Sector - 40, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,FALSE,
+,,,,,,,,,,
+,Skechers,14,"Shop no G-13, Ground Floor, Growels 101 Mall Akurli Road, opp. Western Express Highway, Mumbai, Maharashtra 400101",19.2033444,72.8595734,400101,,,TRUE,Growels 101 Mall Akurli Road
+,,,"New Link Rd, Malad, Malad West, Mumbai, Maharashtra 400064",19.1889341,72.8354551,400064,,,FALSE,
+,,,"45/46, Infiniti Mall, First Floor, Malad West, Mumbai, Maharashtra 400064",19.1847814,72.8342211,400064,,,TRUE,Infiniti Mall
+,,,"94 B, Ground Floor, Mid Summer, Linking Rd, near Kotak Mahindra Bank, Santacruz West, Mumbai, Maharashtra 400043",19.0783934,72.8346377,400043,,,FALSE,
+,,,"Rustom Building, Shop No 1 & 2, Flora Fountain, 21/23, Veer Nariman Road, Fort, Mumbai, Maharashtra 400023",18.9320344,72.8329695,400023,,,FALSE,
+,,,"3R8M+HGM, Bandra West, Mumbai, Maharashtra 400052",19.0664625,72.8337969,400052,,,FALSE,
+,,,"G-17A, Ground floor, Phoenix mill compound, 462, Senapati Bapat Marg, Lower, Parel, Mumbai, Maharashtra 400013",18.9944085,72.8250972,400013,,,FALSE,
+,,,"G-1 Ground Floor, Durolite House, C.T.S Nos. 647, 648, Off New Link Road, Andheri West, Mumbai, Maharashtra 400053",19.137256,72.8322085,400053,,,FALSE,
+,,,"F-31, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400077",19.0994332,72.9164855,400077,,,FALSE,
+,,,"Shop no 5D, DB Ozone, Western Express Hwy, Ketkipada, Dahisar (E, Mumbai, Maharashtra 400068",19.2621762,72.8739991,400068,,,FALSE,
+,,,"K Star Mall, SHOP NO 1/2 ,G FLOOR, VN Purav Marg, Diamond Garden, Basant Garden, Chembur, Mumbai, Maharashtra 400071",19.0521802,72.9015938,400071,,,TRUE,K Star Mall
+,,,"Plot no- 39, Inorbit Mall, Shop no - 3, 2nd, 1, Sector 30A, Vashi, Mumbai, Maharashtra 400075",19.0657928,73.0008684,400075,,,TRUE,Inorbit Mall
+,,,"Unit 1 & 2, Ground Floor, Raghuleela Mall, Sector 30A of IIP, Vashi, New Mumbai, Navi Mumbai, Maharashtra 400705",19.0638681,72.9969051,400705,,,TRUE,Raghuleela Mall
+,,,"Chhatrapati Shivaji Maharaj International Airport, Skechers T2, Domestic DepartureTerminal - Departure, Mumbai, Maharashtra 400099",19.0985439,72.874389,400099,,,FALSE,
+,,,,,,,,,,
+,Spykar,15,"Shop No. 3 Raheja Centre, Linking Rd, Santacruz, Mumbai, W, Mumbai, Maharashtra 400054",19.077748,72.836096,400054,,,FALSE,
+,,,"Shop No.FF.136, Infinity Mall, New Link Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity Mall
+,,,"1st flr Shop no, R- City mall, F/14, Lal Bahadur Shastri Rd, Ghatkopar, w, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,
+,,,"G - 69, Shop No. LG-69 Ground Floor Phoenix Marketcity Mall, Lal Bahadur Shastri Rd, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,TRUE,Shop No. LG-69 Ground Floor Phoenix Marketcity Mall
+,,,"Shop No. F 05A First Floor Growel 101 Mall, Akurli Rd, Kandivali (E, Mumbai, Maharashtra 400101",19.2033444,72.8595734,400101,,,TRUE,Shop No. F 05A First Floor Growel 101 Mall
+,,,"Shop No 2 Ground Floor Building, No-A, Andheri - Kurla Rd, Mukund Nagar, Andheri East, Mumbai, Maharashtra 400095",19.111158,72.872012,400095,,,FALSE,
+,,,"Laxmi Nagar, Thane West, Mumbai, Maharashtra 400601",19.208722,72.9722614,400601,,,FALSE,
+,,,"Shop no-10 Madhav Kunj, Sardar Vallabhbhai Patel Rd, Borivali, Mumbai, Maharashtra 400092",19.236765,72.854666,400092,,,FALSE,
+,,,"Junction, 19th Floor, A & F wings, Lotus Corporate Park, Ram Mandir Lane Jai Coach, Off, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.1513897,72.8507424,400063,,,FALSE,
+,,,"Korum mall Shop No- UG-28 Eastern.Exp. Highway near cadbury junction Thane (W, Mumbai, Maharashtra 400602",19.2028031,72.9653798,400602,,,TRUE,
+,,,"Dr Baba Saheb Ambedkar Rd, Krishna Nagar, Parel, Mumbai, Maharashtra 400012",19.0053005,72.8394547,400012,,,FALSE,
+,,,"Palm Beach Rd, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400705",19.0664269,73.0018314,400705,,,FALSE,
+,,,"Shop Number 3, Jer Building, Dr Babasaheb Ambedkar Rd, Opposite Central Railway Ground, Parel East, Parel, Mumbai, Maharashtra 400012",19.0012699,72.8383329,400012,,,FALSE,
+,,,"Shop No- 5, Morar Baug, RB Mehta Marg, Ghatkopar (E, Mumbai, Maharashtra 400077",19.0818841,72.9089702,400077,,,FALSE,
+,,,"Rly Station, Shop No. S23 Seawoods Grand Central R-1, Sector 40, Seawoods, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,FALSE,
+,,,,,,,,,,
+,Tommy Hilfiger ,15,"UG-4, Seawoods Grand Central Mall, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,TRUE,Seawoods Grand Central Mall
+,,,"6X5C+GGG, Laxmi Nagar, Thane West, Thane, Maharashtra 400606",19.2088125,72.9713281,400606,,,FALSE,
+,,,"G- Mind Space, 52, New Link Rd, Eksar Village, Mhada Colony, Borivali West, Mumbai, Maharashtra 400705",19.2306338,72.8407617,400705,,,FALSE,
+,,,"LIFESTYLE INTERNATIONAL PVT LTD, PHOENIX MILL COMPOUND, Parel, Mumbai, Maharashtra 400013",18.9981729,72.8274691,400013,,,FALSE,
+,,,"R City Mall, Shop No. G-37, Ground Floor, opposite Coroma, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"SHOPPERS STOP, 211 D, S. V ROAD, Andheri West, Mumbai, Maharashtra 400058",19.1150743,72.8426492,400058,,,FALSE,
+,,,"PLOT NO. 1406-A, Inorbit Mall(India) Pvt. Ltd, SHOPPERS STOP, 28/A, New Link Rd, Mumbai, Maharashtra 400064",19.1722743,72.8351642,400064,,,TRUE,Inorbit Mall(India) Pvt. Ltd
+,,,"DYNAMIX MALL, JUHU, Vile Parle West, Mumbai, Maharashtra 400049",19.1146403,72.8274212,400049,,,TRUE,
+,,,"VAMA APPARELS, Kanchanjunga, 72, Pedder Rd, Cumballa Hill, Mumbai, Maharashtra 400026",18.9652905,72.8069903,400026,,,FALSE,
+,,,"PLOT # 1406-A, 28/A, SHOPPERS STOP LTD. , INORBIT MALL, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1722743,72.8351642,400064,,,TRUE,
+,,,"SF 218/A, 2nd Floor, Infinity Mall, Opp Goregaon Sport club, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity Mall
+,,,"Cinemax Versova, Phase D, Shastri Nagar, Andheri West, Mumbai, Maharashtra 400054",19.1412737,72.8309948,400054,,,FALSE,
+,,,"G-02, Oberoi Mall, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.1740832,72.8605366,400063,,,TRUE,Oberoi Mall
+,,,"Raheja Chamber, Main Avenue Crossing, Linking Rd, Santacruz West, Mumbai, Maharashtra 400054",19.0771337,72.834585,400054,,,FALSE,
+,,,"Linking Rd, GOI Staff Colony, Santacruz West, Mumbai, Maharashtra 400054",19.0832488,72.8344831,400054,,,FALSE,
+,,,,,,,,,,
+,U.S. Polo Assn.,18,"Unit No .Ff-102,Shop No.7, Infiniti Mall, New Link Rd, Andheri West, Mumbai, Maharashtra 400064",19.1412127,72.8309064,400064,,,TRUE,Infiniti Mall
+,,,"462, Senapati Bapat Marg, Parel, Mumbai, Maharashtra 400013",19.000969,72.8290959,400013,,,FALSE,
+,,,"Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0991894,72.9173925,400086,,,FALSE,
+,,,"UG-93, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Shop No. 02, Rehem Mansion, Shahid Bhagat Singh Rd, Mumbai, Maharashtra 400039",18.9231996,72.8313605,400039,,,FALSE,
+,,,"SHOP NO-45,Satra Park Shopping Complex, Shimpoli Rd, Borivali West, Mumbai, Maharashtra 400092",19.223761,72.849167,400092,,,FALSE,
+,,,"Shop No. F-17 & F-26, First Floor, Inorbit Rd, Malllink Roadmalad (West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Malllink Roadmalad (West
+,,,"FF/14b Oberoi Mall, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,,,TRUE,FF/14b Oberoi Mall
+,,,"Infinity -2 Mall,Survilink Road,Mumbai Shop No 105, Maharashtra 400053",19.1121049,72.861073,400053,,,TRUE,Infinity -2 Mall
+,,,"Kemp's Corner, Kanchanjunga, 72, Pedder Rd, Cumballa Hill, Mumbai, Maharashtra 400026",18.9652905,72.8069903,400026,,,FALSE,
+,,,"Infiniti Mall, Shop No.FF102, New Link Rd, near Goregaon Sports Club Complex, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"Shop No S, 3, A S Marg, Palladium, Mumbai, Maharashtra 400013",19.1213327,72.8977503,400013,,,FALSE,
+,,,"Arvind Lifestyle Brands.Ltd F/14 B . First Floor Oberoi Mall, Goregaon, Mumbai, Maharashtra 400063",19.1337672,72.8669173,400063,,,TRUE,Arvind Lifestyle Brands.Ltd F/14 B . First Floor Oberoi Mall
+,,,"Shop No, F17 & F26, First Floor, New Link Rd, Mumbai, Maharashtra 400064",19.1874639,72.8354831,400064,,,FALSE,
+,,,"Shop Num G-35, Ground Floor, R-City Mall,Phase #1, Lal Bahadur Shastri Rd, Ghatkopar, W, Mumbai, Maharashtra 400086",19.0993558,72.9163421,400086,,,TRUE,R-City Mall
+,,,"Shop-No-3,4 Near Hyundai Showroom, Mumbai, Maharashtra 401104",19.2630872,72.8732204,401104,,,FALSE,
+,,,"Vithal More Building, 163/169, Dr Baba Saheb Ambedkar Rd, Parel, Mumbai, Maharashtra 400012",19.0016419,72.8385547,400012,,,FALSE,
+,,,"Viviana Mall, Vivacity Voltas Compound pokhharan Road No- 2 Shop No- Gf 64, Ground Floor, Maharashtra 400601",19.2087175,72.9715119,400601,,,TRUE,Viviana Mall
+,,,,,,,,,,
+,United Colors of Benetton,19,"Raheja Chamber, Main Avenue Crossing, Linking Rd, Santacruz, Mumbai, Maharashtra 400054",19.0771337,72.834585,400054,,,FALSE,
+,,,"Shop No-109,1st Floor, Infiniti mall, New Link Rd, Malad, W, Mumbai, Maharashtra 400064",19.1411618,72.8310538,400064,,,TRUE,
+,,,"Senapati Bapat Marg, Parel, Mumbai, Maharashtra 400013",19.0076023,72.8323398,400013,,,FALSE,
+,,,"Shop No 22, Ground Floor, Infiniti Mall, KL Walawalkar Marg, Phase D, Oshiwara, Andheri West, Mumbai, Maharashtra 400102",19.1412127,72.8309064,400102,,,TRUE,Infiniti Mall
+,,,"S-19,Oberoi Mall, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,,,TRUE,Oberoi Mall
+,,,"Unit UG - 91 / 92, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0866587,72.8893126,400070,,,FALSE,
+,,,"police Station, Rahim Mansion, Shop No 5, 38, Colaba Causeway, next to Colaba, Mumbai, Maharashtra 400039",18.91517,72.82618,400039,,,FALSE,
+,,,"R City Mall, Shop no 42,Second, Lal Bahadur Shastri Rd, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Skyzone ,1st floor, Unit no, F 10B High Street PhoenixLower, Parel, Mumbai, Maharashtra 400013",18.9948509,72.8252115,400013,,,FALSE,
+,,,"F-34 First floor,Inorbit Mall, New Link Rd, Mindspace, W, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Inorbit Mall
+,,,"T2 International Departures, Post Security, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400099",19.0985928,72.8742768,400099,,,FALSE,
+,,,"R City Mall, Shop no -2A, Ground, Lal bahadur shastn road, Ghatkopar, W, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"G Floor, Shop No.22, Infinity Mall, New Link Rd, Oshiwara, Andheri West, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,Infinity Mall
+,,,"GF-23, Viviana City, Voltas Compound, Mumbai, Maharashtra 400601",19.2087175,72.9715119,400601,,,FALSE,
+,,,"Eastern Express Hwy, Laxmi Nagar, Thane West, Thane, Maharashtra 400606",19.2085425,72.9728673,400606,,,FALSE,
+,,,"UG-91/92, Kurla Marketcity, Lal Bahadur Shastri Rd, Kurla, W, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Krishna Tower, A-23, Viviana City,Voltas Compound Pokhran Road, 2Subhash Nagar, Mumbai, Maharashtra 400601",19.2197186,72.9782255,400601,,,FALSE,
+,,,"Inorbit Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Inorbit Mall
+,,,"Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0991894,72.9173925,400086,,,FALSE,
+,,,,,,,,,,
+,Van Huesan,16,"No. 108, 1St Floor, Infinity Mall, Malad, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity Mall
+,,,"Shop no 16, Ground Floor, Sanjay, Mittal Industrial Estate, Premises, Andheri East, Mumbai, Maharashtra 400059",19.1071567,72.8819155,400059,,,FALSE,
+,,,"Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0991894,72.9173925,400086,,,FALSE,
+,,,"No. 30-a, Van Hesuen Women's Wear Store, Unit No. G31 & G31a, Inorbit Mall CTS No. 39, 1 to 39, Sector 15, Vashi, Navi Mumbai, Maharashtra 400705",19.1005264,73.0014565,400705,,,TRUE,Inorbit Mall CTS No. 39
+,,,"494, Linking Rd, Khar, Bandra Kurla Complex, Bandra West, Mumbai, Maharashtra 400050",19.0718553,72.8341282,400050,,,FALSE,
+,,,"Plot No. 17A, No. 8, Ground Floor, Mayfair 14, Tulsi Baug, Ramdas Sutrale Marg, Borivali West, No. 1, TPS Road, Mumbai, Maharashtra 400092",19.2337489,72.8530958,400092,,,FALSE,
+,,,"Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",19.1717979,72.8591046,400063,,,FALSE,
+,,,"G-17A, No G-17A, Ground Floor, Phoenix Market City, Lal Bahadur Shastri Rd, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"New Link Rd, Malad, Malad West, Mumbai, Maharashtra 400064",19.1889341,72.8354551,400064,,,FALSE,
+,,,"SHOP NO. 13, GROUND FLOOR , SATRA PARK,FINAL PLOT NO 179, Shimpoli Rd, Borivali West, Mumbai, Maharashtra 400092",19.2238574,72.84796,400092,,,FALSE,
+,,,"IN STYLE Shop no 8/B ground floor, r- mall Mumbai-400080, Vikas Paradise Tower I, Mumbai, Maharashtra 400080",19.1839285,72.9515496,400080,,,TRUE,
+,,,"No. 108, 1St Floor, Infinity Mall, Malad, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infinity Mall
+,,,"Gordhandas Mansion, Shop No.3/4, Dr Baba Saheb Ambedkar Rd, Parel, Mumbai, Maharashtra 400012",19.0014909,72.8383659,400012,,,FALSE,
+,,,"K Star Mall, VN Purav Marg, Diamond Garden, Basant Garden, Chembur, Mumbai, Maharashtra 400071",19.0524228,72.901668,400071,,,TRUE,K Star Mall
+,,,"Shop no 20 darvesh horizon bldg, Opp. DB Ozone Bldg, Western Express Highway National Highway 8 Rajiv Gandhi Nagar, Penkarpada, Mira Road, or, Maharashtra 401104",19.2630872,72.8732204,401104,,,FALSE,
+,,,"First Floor, INFINITI Mall, F-110, New Link Rd, Malad, W, Mumbai, Maharashtra 400064",19.1411618,72.8310538,400064,,,TRUE,INFINITI Mall
+,,,,,,,,,,
+,Vero Moda,13,"Infiniti II Mall, Upper Ground Floor, New Link Rd, near Goregaon Sports Complex, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti II Mall
+,,,"Oberoi Mall, Ground Floor Oberoi Garden City, Off, Western Express Hwy, Dindoshi, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,,,TRUE,Oberoi Mall
+,,,"Palladium, First Floor, Block 34/14B Phoenix mills compound, 462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,,,FALSE,
+,,,"Ground Floor -19, Phoenix Market City, 20, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Infiniti Mall,, Ground Floor, New Link Rd, Oshiwara, Andheri West, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,Infiniti Mall
+,,,"Inorbit Mall, Ground Floor, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Inorbit Mall
+,,,"Shop No.F31b, First Floor, Jio World Drive Bandra E, Maharashtra 400051",19.0536611,72.8510858,400051,,,FALSE,
+,,,"Shop no 3, Brady House, Veer Nariman Road, near Horniman Circle, Fort, Mumbai, Maharashtra 400001",18.9323135,72.8340882,400001,,,FALSE,
+,,,"Lal Bahadur Shastri Rd, Ghatkopar, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0874764,72.9025784,400086,,,FALSE,
+,,,"21, Phoenix Marketcity, Shop No UG -19-20, 22, Lal Bahadur Shastri Rd, Kurla, Mumbai, Maharashtra 400070",19.0855991,72.8880338,400070,,,FALSE,
+,,,"Ground Floor, Inorbit Mall, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703",19.065709,73.0012309,400703,,,TRUE,Inorbit Mall
+,,,"The Lalit Residency, Sahar Airport Road, Opp. The Leela Hotel, Andheri East, Mumbai, Maharashtra 400059",19.1053238,72.8758792,400059,,,FALSE,
+,,,"Seawoods Grand Central, Ground Floor, Plot No. R-1 Sector 40, Seawood Railway Station, Nerul Node, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,FALSE,
+,,,,,,,,,,
+,Woodland,19,"Shop No SF-222, Second Floor,, Infiniti Mall II, Link Road, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall II
+,,,"Plot No. 212, Shop Number 3, Manu Bharti Co-Operative Housing Limited, Swami Vivekananda Rd, Andheri West, Mumbai, Maharashtra 400058",19.1140577,72.8419153,400058,,,FALSE,
+,,,"Colaba, 3/4 York House, S.B.S. Road, Mumbai, 400001",18.9212051,72.8309186,400001,,,FALSE,
+,,,"Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.1020767,72.9128351,400086,,,FALSE,
+,,,"Shop No-11, Sion-Trombay Road, Near Atur Park, Diamond Garden, Chembur, Mumbai, Maharashtra 400071",19.0540703,72.8920789,400071,,,FALSE,
+,,,"Shop No. 3, Plot No. 535, Nav Meghdoot Co-Op. Hsg. Society, Linking Road, Khar West, Mumbai, Maharashtra 400052",19.066381,72.834165,400052,,,FALSE,
+,,,"Shantinath Shopping Centre, Swami Vivekananda Rd, Malad, Navy Colony, Mamledarwadi, Malad West, Mumbai, Maharashtra 400064",19.1847937,72.8463322,400064,,,FALSE,
+,,,"Topiwala Building, M/s. ISHA ENTERPRISES,Shop No.7&8, Ground Floor, Dr Baba Saheb Ambedkar Rd, Opposite ITC Hotel, Ghodapdeo, Parel, Mumbai, Maharashtra 400012",18.9974942,72.8378165,400012,,,FALSE,
+,,,"SHOP NO. 5, UMBERGAON BUILDING, Dr Baba Saheb Ambedkar Rd, Parel East, Mumbai, Maharashtra 400012",19.022466,72.8508902,400012,,,FALSE,
+,,,"No 17/B, Senapati Bapat Marg, Lower Parel West, Lower Parel, Mumbai, Maharashtra 400013",19.0015376,72.8292716,400013,,,FALSE,
+,,,"G - 10, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"RCity Mall, Shop No F61-62, 1st Floor, Phase-II, LBS Marg, Ghatkopar West, Mumbai, Maharashtra 400086",19.1001839,72.916658,400086,,,TRUE,RCity Mall
+,,,"Shop No 4 To 10, Rukhasana Terrace, Dr Babasaheb Ambedkar Road, Opposite Parel Railway Work Shop, Parel, Mumbai, Maharashtra 400012",19.0015698,72.8363795,400012,,,FALSE,
+,,,"Shop NO. 8&9, Hemandra Society, Gokhale Rd, Naupada, Thane West, Thane, Maharashtra 400602",19.187524,72.9711384,400602,,,FALSE,
+,,,"Sion - Trombay Rd, Chembur East, Postal Colony, Chembur, Mumbai, Maharashtra 400071",19.0540463,72.8928691,400071,,,FALSE,
+,,,"Viviana Mall,, Thane West, Eastern Express Hwy, Thane, Maharashtra 400610",19.2088139,72.9713387,400610,,,TRUE,Viviana Mall
+,,,"Ground floor Raghulela Mall, Sector 30, Vashi, Navi Mumbai, Maharashtra 400703",19.0638681,72.9969051,400703,,,TRUE,Ground floor Raghulela Mall
+,,,"Sant Savata Mali Marg, Byculla East, Byculla, Mumbai, Maharashtra 400027",18.9762894,72.838512,400027,,,FALSE,
+,,,"Mathura Kunj, Shop No. 1 & 2, Near, Maxus Mall Rd, Bhayandar West, Mira Bhayandar, Maharashtra 401101",19.295186,72.8466484,401101,,,TRUE,Maxus Mall Rd
+,,,,,,,,,,
+,Wrangler,7,"1st Floor,R City Mall, Amrut Nagar Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Shop G - 64, Lal Bahadur Shastri Rd, Patelwadi.Kurla, Kamani, Ashok Nagar, Saki Naka, Mumbai, Maharashtra 400072",19.085022,72.886619,400072,,,FALSE,
+,,,"Infiniti Mall, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"FF-47, Pokharan Rd Number 2, Laxmi Nagar, Thane West, Thane, Maharashtra 400606",19.2083715,72.9711686,400606,,,FALSE,
+,,,"Shope No -22, Seawood Grand Central Mall, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,TRUE,Seawood Grand Central Mall
+,,,"Nerul East, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0211554,73.0146996,400706,,,FALSE,
+,,,"X4V8+87F, Forest Colony, Panvel, Navi Mumbai, Maharashtra 410206",18.9933125,73.1156719,410206,,,FALSE,
+,,,,,,,,,,
+,Zara,5,"Ground Floor 9, 10, 11, 12, Oberoi Mall, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.1739027,72.8611028,400063,,,TRUE,Oberoi Mall
+,,,"s/n, Veer Nariman Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",18.9322474,72.8326143,400001,,,FALSE,
+,,,"Infiniti Mall II, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall II
+,,,"high street phoenix, 462, Senapati Bapat Marg, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,,,FALSE,
+,,,"Eastern Express Hwy, Laxmi Nagar, Thane West, Thane, Maharashtra 400601",19.2085425,72.9728673,400601,,,FALSE,
+,,,,,,,,,,
+,Ziwame ,7,"Unit No.SF124A, First Floor Infiniti Mall 1406 A, 16E, New Link Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,First Floor Infiniti Mall 1406 A
+,,,"R City Mall, Unit No SF 14, Second Floor, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Shop No. FF - 19, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Unit no FF 18, First floor,R Mall (Thane, Ghodbunder Rd, opp. Lokim Company, Dokali Pada, Dhokali, Thane West, Thane, Maharashtra 400607",19.2305798,72.9773622,400607,,,TRUE,R Mall (Thane
+,,,"Shop No 532, Kadamb Kudpi House, Next to MC Donalds Linking Road, Vithalbhai, Patel Road, Mumbai, Maharashtra 400052",19.065984,72.8344177,400052,,,FALSE,
+,,,"Zivame Unit No SF04A, Second Floor, Viviana Mall, Pokharan Rd Number 2, next to Jupiter Hospital, Subhash Nagar, Thane, Maharashtra 400606",19.2087445,72.971562,400606,,,TRUE,Viviana Mall
+,,,"Unit no F-30-S -H, Nerul East, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0211554,73.0146996,400706,,,FALSE,
+,,,,,,,,,,
+,Zodiac,19,"Oberoi Mall, First Floor -23, Western Express Hwy, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,,,TRUE,Oberoi Mall
+,,,"G-1-7, Ground Floor, Grand Hayat Shopping Plaza, Santacruz East, Mumbai, Maharashtra 400055",19.0767582,72.8512645,400055,,,FALSE,
+,,,"Inorbit Mall, Shop No.G43, Ground Floor, New Link Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Inorbit Mall
+,,,"Shop No. 262 L.T.Marg, Craw Ford Market, opp. G.T. Hospital, Mumbai, Maharashtra 400002",18.945892,72.831315,400002,,,FALSE,
+,,,"Shop UG 98, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"G1 Ground floor British gas Hous, Lake Blvd Rd, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",19.1195476,72.9080234,400076,,,FALSE,
+,,,"Jay Villa, GROUND FLOOR, B-1& B-3, Linking Rd, Santacruz West, Mumbai, Maharashtra 400054",19.0812246,72.8341696,400054,,,FALSE,
+,,,"Shop No. 5, Cr2 Mall, opp. bajaj bhawan, Nariman Point, Mumbai, Maharashtra 400021",18.9265907,72.8226526,400021,,,TRUE,Cr2 Mall
+,,,"Shetty House Opp.Mumbai University 101 M.G. Rd Fort, Near Kandil, Rest, Mumbai, Maharashtra 400001",18.9302716,72.8314756,400001,,,FALSE,
+,,,"Store No, 58/A, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0929806,72.912243,400086,,,FALSE,
+,,,"Anuradha Building, Manek Nagar, Maharashtra Nagar, Borivali West, Mumbai, Maharashtra 400092",19.2306925,72.8530164,400092,,,FALSE,
+,,,"TT, Dr. Baba Saheb Ambedkar Rd, Opp. Babubhai Jagjivandas, Dadar, Mumbai, Maharashtra 400014",19.0163905,72.8471086,400014,,,FALSE,
+,,,"High Street Phoenix, G-13, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.9947636,72.8236607,400013,,,FALSE,
+,,,"Security Hold Area (SHA, Terminal 2, Chatrapati Shivaji International Airport, (CSIA) Shop No. 64 Level -4, Andheri East, Mumbai, Maharashtra 400099",19.0903694,72.8627519,400099,,,FALSE,
+,,,"Phoenix Marketcity, Lal Bahadur Shastri Rd, Kurla West, Mumbai, Maharashtra 400072",19.0863795,72.8889774,400072,,,FALSE,
+,,,"Shop 3, 31st Road, Opp.Shoppers Stop, Bandra West, Mumbai, Maharashtra 400050",19.0612031,72.8356398,400050,,,FALSE,
+,,,"Sri Krishna Premises Co-Op. Society Ltd, New Link Road Andheri (West), Mumbai – 400 053, Mumbai, Maharashtra 400053",19.1405123,72.8319683,400053,,,FALSE,
+,,,"Napeansea Road, Near Priyadarshini Park, opp. Russian Consulate, Mumbai, Maharashtra 400006",18.9570417,72.7996174,400006,,,FALSE,
+,,,"Taj Mahal Intercontinental, Shopping Arcade, Apollo Bandar, Mumbai, Maharashtra 400001",18.9225854,72.8331543,400001,,,FALSE,
+,,,,,,,,,,
+,Zudio,13,"Star Bazaar, Crystal Point, Off New Link Road, Andheri West, Mumbai, Maharashtra 400053",19.1309003,72.8308621,400053,,,FALSE,
+,,,"Brijwasi Excellentia, Sonawala Rd, Sonawala Industry Estate, Goregaon, Mumbai, Maharashtra 400063",19.1619282,72.851349,400063,,,FALSE,
+,,,"Pranay Nagar CHS, Yashprabha, Kastur Park Rd, Shimpoli, Borivali West, Mumbai, Maharashtra 400092",19.2263045,72.8434373,400092,,,FALSE,
+,,,"Manpada, Thane West, Thane, Maharashtra 400607",19.2308277,72.9741067,400607,,,FALSE,
+,,,"Tembhi Naka, Tembhi Naka, Dhobi Ali, Charai, Thane West, Thane, Maharashtra 400601",19.1977664,72.9761365,400601,,,FALSE,
+,,,"Prabhat Plaza, Shivaji Path, opp. MLD High school, Jambli Naka, Thane West, Thane, Maharashtra 400601",19.1904706,72.9766035,400601,,,FALSE,
+,,,"Hiranandani Meadows, Emerald Plaza, Block no 4, 1 st floor, 102 & 103, Gladys alvares road, Pokharan Rd Number 2, Thane West, Maharashtra 400610",19.2200423,72.9701969,400610,,,FALSE,
+,,,"Shreeji Tower, Star Market, Aarambh, near Mc donald, Mira Road, Mumbai, Maharashtra 401107",19.2883164,72.8678225,401107,,,FALSE,
+,,,"Plot No 02, Mahavir Astha, Sector 07, Kharghar, Navi Mumbai, Maharashtra 410210",19.0370087,73.062637,410210,,,FALSE,
+,,,"Bhumi Pinnacle, Building, Roadpali, Kalamboli, Panvel, Navi Mumbai, Maharashtra 400706",19.0359653,73.1020887,400706,,,FALSE,
+,,,"Gold Crest 369, opp. New Viva college, Y K Nagar, Virar West, Virar, Maharashtra 401303",19.4599511,72.8004351,401303,,,FALSE,
+,,,"Capital Mall, Lower Ground Floor, Yashvant Viva Twp, Nalasopara East, Mumbai, Maharashtra 401209",19.4076665,72.8219649,401209,,,TRUE,Capital Mall
+,,,"Dominos Pizza Corner, Bus Depot, Konark Arcade, Agra Rd, Bhiwandi, Maharashtra 421308",19.2993673,73.0650915,421308,,,FALSE,
+,,,,,,,,,,
+,Decathalon,7,"Trishul Goldmine, 1st Floor, 04, Palm Beach Rd, Sector 15, CBD Belapur, Navi Mumbai, Maharashtra 400614",19.0119509,73.0347387,400614,,,FALSE,
+,,,"No.2, Ground Floor, Link Palace, Linking Rd, Santacruz West, Mumbai, Maharashtra 400054",19.0777081,72.8346362,400054,,,FALSE,
+,,,"Level 1 Big Shopping Center, Ghodbunder Rd, Kasarvadavali, Gaon, Thane, Maharashtra 400615",19.2681929,72.9650586,400615,,,FALSE,
+,,,"Piramal Realty, Agastya Corporate Park, Kamani Junction, Sunder Baug Ln, Mumbai, Maharashtra 400070",19.085318,72.886434,400070,,,FALSE,
+,,,"Peninsula Towers, Thakur Mall, Dahisar East, Ground Floor, Ketkipada, Dahisar East, Mumbai, Maharashtra 401107",19.2635013,72.8748725,401107,,,TRUE,Thakur Mall
+,,,"Atria-The Millennium Mall, Dr Annie Besant Rd, next to Royal Garden, Lotus Colony, Worli, Mumbai, Maharashtra 400018",18.9910033,72.8143227,400018,,,TRUE,Atria-The Millennium Mall
+,,,"F-18B, 1st Floor, South Wing R-City MAll, Lal Bahadur Shastri Rd, opp. Godrej, Ghatkopar West, Mumbai, Maharashtra 400086",19.0999066,72.9153934,400086,,,TRUE,
+,,,,,,,,,,
+,Daniel Wellington ,8,"Ground floor, Infiniti mall, New Link Rd, Phase D, Oshiwara, Andheri West, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,
+,,,"R City Mall, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Unit UG, 31, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Infiniti Mall, New Link Road, Malad (west Unit no GF042, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"G-14, Grand west zone-west Main Avenue High Street Phoenix, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,,,FALSE,
+,,,"Ground floor, Infiniti mall, New Link Rd, Phase D, Oshiwara, Andheri West, Mumbai, Maharashtra 400053",19.1412127,72.8309064,400053,,,TRUE,
+,,,"Seawood railway station, Navi Mumbai, Seawoods Station Rd, Seawoods West, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,FALSE,
+,,,"Seawoods Grand Central Mall, Level UG,Seconds, Nerul, Navi Mumbai, Maharashtra 400614",19.0218844,73.0185706,400614,,,TRUE,Seawoods Grand Central Mall
+,,,,,,,,,,
+,Casio,7,"No G42, Ground Floor, Inorbit Mall, New Link Rd, next to Hypercity, Malad, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Inorbit Mall
+,,,"Lal Bahadur Shastri Rd, opposite Naaz Hotel, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0845704,72.8891072,400070,,,FALSE,
+,,,"Just Lifestyle Pvt. Ltd. ,Unit No.G-10 B, Palladium, Hight Street Phoenix, Senapati Bapat Marg, Lower Parel, Mumbai, Mumbai, Maharashtra 400013",18.994744,72.8245993,400013,,,FALSE,
+,,,"Infiniti Mall, New Link Rd, Malad, Mindspace, Goregaon West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"Unit No 18, Viviana Mall, Pokharan Rd Number 1, next to Jupiter Hospital, Subhash Nagar, Thane, Maharashtra 400606",19.2087646,72.9716953,400606,,,TRUE,Viviana Mall
+,,,"Inorbit Mall(India) Pvt. Ltd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1730327,72.8356308,400064,,,TRUE,Inorbit Mall(India) Pvt. Ltd
+,,,"F 51/52, 1st Floor, Seawood Mall Nerul Node, Sector 40, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,TRUE,Seawood Mall Nerul Node
+,,,,,,,,,,
+,Fossil,9,"Shop G - 33, Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",19.235989,72.862902,400063,,,FALSE,
+,,,"Chhatrapati Shivaji International Airport Area, Vile Parle, Mumbai, Maharashtra 400099",19.0903694,72.8627519,400099,,,FALSE,
+,,,"G-07, New Link Rd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1730932,72.835889,400064,,,FALSE,
+,,,"UG -13/14,Phoenix Market City, Lalbahadur Shastri Rd, Kurla West, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"R City Mall, Shop No. G 70A, Ground, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0993558,72.9163421,400086,,,TRUE,R City Mall
+,,,"Dr Annie Besant Rd, Lower Parel, Mumbai, Maharashtra 400013",18.9992156,72.8171977,400013,,,FALSE,
+,,,"Ground Floor, Viviana Mall, Unit No.GF, 68, Eastern Express Hwy, beside Jupiter Hospital, Thane West, Mumbai, Maharashtra 400606",19.2087175,72.9715119,400606,,,TRUE,Viviana Mall
+,,,"Shop no G-33, Oberoi Mall, Oberoi Garden City, Off, Western Express Hwy, Dindoshi, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,,,TRUE,Oberoi Mall
+,,,"Biba - Chhatrapati shivaji International Airport, Terminal 2, RFP-20, Level 3, Sahar, Mumbai, Maharashtra 400099",19.0974373,72.8745017,400099,,,FALSE,
+,,,,,,,,,,
+,Lavie,8,"Unit F - 13, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0744461,72.8758034,400070,,,FALSE,
+,,,"Shopper's Stop, Malad, Malad West, Mumbai, Maharashtra 400064",19.1756702,72.8324764,400064,,,FALSE,
+,,,"Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400099",19.0963781,72.8563994,400099,,,FALSE,
+,,,"Amrut Nagar Cir, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.1013148,72.9115554,400086,,,FALSE,
+,,,"Viviana mall, Eastern Express Hwy, Thane West, Maharashtra",19.2088139,72.9713387,,,,TRUE,
+,,,"Ground Floor, Shop No. G- 15B, L.B.S Marg, Ghatkopar (W), Mumbai, 400086",19.0867759,72.8980867,400086,,,FALSE,
+,,,"Unit No.FF-46A, Level First, Viviana Mall, Pokharan Rd Number 2, next to Jupiter Hospital, Subhash Nagar, Thane, Maharashtra 400606",19.2087646,72.9716953,400606,,,TRUE,Viviana Mall
+,,,"F-07, Seawoods Station Rd, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,FALSE,
+,,,,,,,,,,
+,Tanishq,17,"Extension of Entry road to Phoenix, Lower Parel, Mumbai, Maharashtra 400013",18.993734,72.8243796,400013,,,FALSE,
+,,,"No. 7, Brabourne, stadium, Veer Nariman Road, opp. Ambassador Hotel, Churchgate, Mumbai, Maharashtra 400020",18.9337167,72.8247998,400020,,,FALSE,
+,,,"Vastu Prestige, Off New Link Road, near Citi Mall, Andheri (W, Mumbai, Maharashtra 400053",19.1374591,72.8313417,400053,,,TRUE,near Citi Mall
+,,,"Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0991894,72.9173925,400086,,,FALSE,
+,,,"Post Security Check In, Domestic Departures, Terminal 2, Chatrapati Shivaji Internation Airport, Andheri (E, Mumbai, Maharashtra 400069",19.0903694,72.8627519,400069,,,FALSE,
+,,,"36, Rotunda, Shop No. 4, 5, 6 Opp. Crossword, Turner Rd, near Tavaa Restaurant, Bandra West, Mumbai, Maharashtra 400050",19.0592624,72.835211,400050,,,FALSE,
+,,,"Oberoi, Showroom F-24, Unit G-2, Oberoi Mall Pvt Ltd, Off, Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",19.173725,72.8605168,400063,,,TRUE,Oberoi Mall Pvt Ltd
+,,,"Ground Floor Plot No. 159 A, Mahalaxmi Heritage, Central Ave Rd, near Ambedkar Circle, Chembur, Mumbai, Maharashtra 400071",19.0591901,72.9003297,400071,,,FALSE,
+,,,"Ground Floor Inorbit Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Ground Floor Inorbit Mall
+,,,"Tanishq, near Benetton, Linking Rd, Santacruz West, Mumbai, Maharashtra 400052",19.0773802,72.8347005,400052,,,FALSE,
+,,,"Sai Darshan Building, Swami Vivekananda Rd, opp. Fire Station, Navpada, Irla, Andheri West, Mumbai, Maharashtra 400058",19.1121145,72.8416789,400058,,,FALSE,
+,,,"Vini Eligence Building, Ground Floor, L.T.Road, Borivali West, Mumbai, Maharashtra 400092",19.2284246,72.8525995,400092,,,FALSE,
+,,,"Ground Floor, Interlink House, Mahatma Gandhi Rd, Near Satyam Shopping Center, Neelkhanth Valley, Ghatkopar East, Mumbai, Maharashtra 400077",19.0760143,72.9033425,400077,,,FALSE,
+,,,"UG- 47, Ground Floor, Phoenix Market City, Lal Bahadur Shastri Rd, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Shop No.9, R Square Gr. Floor, Lal Bahadur Shastri Rd, Mulund West, Mumbai, Maharashtra 400080",19.1802501,72.9462904,400080,,,FALSE,
+,,,"Ice Factory, No. 1 & 2, Hoshbanno Mansion Opp. Old, Gokhale Rd, Naupada, Thane West, Thane, Maharashtra 400602",19.187351,72.968884,400602,,,FALSE,
+,,,"Viviana Mall, Unit No 8, Ground Floor, Pokharan Rd Number 2, next to Jupiter Hospital, Subhash Nagar, Thane West, Mumbai, Maharashtra 400610",19.206394,72.9571961,400610,,,TRUE,Viviana Mall
+,,,"K N Bldg, Opp Asthika Samaj, Bhandarkar Rd, near Maheshwari Udyan, Matunga, Mumbai, Maharashtra 400019",19.0275123,72.854062,400019,,,FALSE,
+,,,,,,,,,,
+,World of Titan,18,"Shop No. 2 & 3, Jai Shiv Shakti Building, Nehru Road, Mulund (West), Mumbai, Maharashtra 400080",19.167693,72.951391,400080,,,FALSE,
+,,,"378, N C. Kelkar Rd, opposite Dadar Emporium, Near Kabutar khana, Dadar West, Dadar, Mumbai, Maharashtra 400028",19.0201557,72.8411616,400028,,,FALSE,
+,,,"G-1 & G-2, 199 Linking Road Diagonally Opp. Shoppers Stop Navchandra Niwas Co-Operative, Bandra West, Mumbai, Maharashtra 400050",19.067328,72.833886,400050,,,FALSE,
+,,,"Silverstone Building, 294, Linking Rd, Khar West, Mumbai, Maharashtra 400052",19.0739327,72.8344466,400052,,,FALSE,
+,,,"F-28, Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",19.1740643,72.8600069,400063,,,FALSE,
+,,,"Shop No.1 & 2 Mehul Building, L.T.Road, Near Diamond Theater, Borivali (West, Gorai 1, Borivali, Mumbai, Maharashtra 400092",19.2289595,72.8537403,400092,,,FALSE,
+,,,"Shop No.164-B, Chickhal House, Ground Floor, Marine Line East, Shamaldas Gandhi Marg, Joshi Wadi, Kalbadevi, Mumbai, Maharashtra 400002",18.9466247,72.8290687,400002,,,FALSE,
+,,,"Natraj Theatre Building,, Ground Floor,, Road No.1,, Chembur, Mumbai, Maharashtra 400071",19.0624743,72.8992222,400071,,,FALSE,
+,,,"Ground Floor,High Street Phoenix Mall,North Sky Zone, Lower Parel, Mumbai, Maharashtra 400013",18.9948509,72.8252115,400013,,,TRUE,High Street Phoenix Mall
+,,,"Station Road, Borivali East, Mumbai, Maharashtra 400066",19.1874125,72.8472944,400066,,,FALSE,
+,,,"Shop No 2, Jamuna Apartment, Swami Vivekananda Rd, opp. Shoppers Stop, Andheri West, Mumbai, Maharashtra 400058",19.1144127,72.8428963,400058,,,FALSE,
+,,,"Viviana Mall, Groud Floor, Shop No G - 61, Eastern Express Hwy, Mumbai, Maharashtra 400601",19.2088342,72.9715561,400601,,,TRUE,Viviana Mall
+,,,"Unit No W5-3104, Level 3, Terminal T2,, Chhatrapati Shivaji International Airport, Domestic Departure,Santacruz (East),, Mumbai, Maharashtra 400099",19.0984636,72.8744401,400099,,,FALSE,
+,,,"D Joshi Marg, LIC Colony, Suresh Colony, Vile Parle West, Mumbai, Maharashtra 400056",19.1001609,72.842583,400056,,,FALSE,
+,,,"Abdul Rehman St, Mumbadevi Area, Bhuleshwar, Mumbai, Maharashtra 400003",18.9523358,72.8322617,400003,,,FALSE,
+,,,"Korum Mall, Thane West, Mumbai, Maharashtra 400606",19.2028031,72.9653798,400606,,,TRUE,Korum Mall
+,,,"Holland House, Shahid Bhagat SIngh Marg, Colaba,, Maharashtra 400039",18.9238431,72.8316746,400039,,,FALSE,
+,,,"15, Heera Panna Shopping Centre, Haji Ali, Mumbai, Maharashtra 400026",18.9773774,72.8105606,400026,,,FALSE,
+,,,,,,,,,,
+,Swarovski ,9,"Unit No F7, First Floor, Senapati Bapat Marg, Parel, Mumbai, Maharashtra 400013",18.9942103,72.8242535,400013,,,FALSE,
+,,,"2, New Link Rd, Malad, Reserve Bank of India Staff Quarters, Raheja Twp, Kandivali West, Mumbai, Maharashtra 400104",19.1731757,72.8354983,400104,,,FALSE,
+,,,"International Departure, Terminal 2, Chhatrapati Shivaji International Airport, International Airport, Sahar, Sahar Elevated Rd, Mumbai, Maharashtra",19.0903694,72.8627519,,,,FALSE,
+,,,"Store No. G-20, Infiniti Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"UG 15, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"231, Link Corner Building, Shop No.3, Linking Road, Mumbai, Maharashtra 400050",19.0603028,72.836316,400050,,,FALSE,
+,,,"Ground floor, Vivana Mall, Pokharan Rd Number 2, next to Jupiter Hospital, Thane, Laxmi Nagar, Thane West, Thane, Maharashtra 400610",19.2097096,72.9723931,400610,,,TRUE,Vivana Mall
+,,,"R City Mall, ground floor, swarovski store, 1, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0993716,72.9161062,400086,,,TRUE,R City Mall
+,,,"Unit UG - 61, Seawoods Station Rd, Seawoods West, Nerul East, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,FALSE,
+,,,,,,,,,,
+,Aldo,6,"No.G086, Ground Floor, Next To Croma, Infinity Mall, New Link Rd, Mindspace, West, Mumbai, Maharashtra 400064",19.184917,72.8342272,400064,,,TRUE,Infinity Mall
+,,,"Unit UG, 2, Lal Bahadur Shastri Rd, Kurla, Mumbai, Maharashtra 400072",19.0718351,72.8751093,400072,,,FALSE,
+,,,"G - 4, New Link Rd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,FALSE,
+,,,"Viviana Mall, Eastern Express Hwy, Laxmi Nagar, Thane West, Thane, Maharashtra 400606",19.2088139,72.9713387,400606,,,TRUE,Viviana Mall
+,,,"Shop Number 71 /72, Plot Number R 1, Seawoods Grand Central, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,FALSE,
+,,,"Vatsala Linking Road Vatsala, Linking Rd, opp. ICICI Bank, Santacruz, Mumbai, W, Mumbai, Maharashtra 400054",19.0758833,72.834604,400054,,,FALSE,
+,,,,,,,,,,
+,American Tourister,4,"Lal Bahadur Shastri Rd, opp. Dreams Mall, Bhandup, Valmik Nagar, Bhandup West, Mumbai, Maharashtra 400078",19.1458308,72.9355006,400078,,,TRUE,opp. Dreams Mall
+,,,"Lower, Parel, Mumbai, Maharashtra 400013",18.9982461,72.8269646,400013,,,FALSE,
+,,,"4V75+PM7, Andheri East, Mumbai, Maharashtra 400053",19.1142875,72.8591719,400053,,,FALSE,
+,,,"Shop No.5-6, Ground Floor, Opposite Vijay Sales, Mira Bhayandar Road Chhatrapati, Shivaji Maharaj Marg, Silver Park, Mira Road, Mumbai, Maharashtra 401107",19.2812391,72.8748753,401107,,,FALSE,
+,,,,,,,,,,
+,Baggit,12,"Linking Rd, opposite McDonald's, Bandra West, Mumbai, Maharashtra 400050",19.0660073,72.8345042,400050,,,FALSE,
+,,,"Unit No.SF-239, 2nd Floor, Infiniti Mall, Link Road, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall
+,,,"Balkrishna Niwas, 11 C. Rly, Matunga Rd, Mumbai, Maharashtra 400019",19.0258644,72.850394,400019,,,FALSE,
+,,,"Shree Krishna Sadan, 175, Kurla(West, Lal Bahadur Shastri Rd, Patelwadi.Kurla, Kamani, Ashok Nagar, Kurla, Mumbai, Maharashtra 400070",19.0825827,72.8825143,400070,,,FALSE,
+,,,"F Wing, Dr Annie Besant Rd, Shiv Sagar Estate, Worli, Mumbai, Maharashtra 400018",18.9905278,72.8135081,400018,,,FALSE,
+,,,"Phoenix market city, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Palm Beach Rd, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703",19.0664269,73.0018314,400703,,,FALSE,
+,,,"5, Dinshaw Petit Rd, Shree Ganesh Nagar, Lal Baug, Parel, Mumbai, Maharashtra 400012",18.9900976,72.8382549,400012,,,FALSE,
+,,,"310, Marve Rd, Malad, Reserve Bank of India Staff Quarters, Raheja Twp, Malad East, Mumbai, Maharashtra 400064",19.1931075,72.8407194,400064,,,FALSE,
+,,,"Viviana mall, Unit No. FF 36A,1st Floor Voltas compound, Pokhran Rd. No. 2, Eastern Express Hwy, Subhash Nagar, Thane West, Mumbai, Maharashtra 400606",19.2087175,72.9715119,400606,,,TRUE,
+,,,"Shop no-G77, Ground Floor, Lal Bahadur Shastri Marg, Ghatkopar West, Mumbai, Maharashtra 400086",19.0995674,72.9155966,400086,,,FALSE,
+,,,"Seawoods Station Rd, Nerul East, Sector 28, Nerul, Navi Mumbai, Maharashtra 400706",19.021679,73.0170403,400706,,,FALSE,
+,,,,,,,,,,
+,Charles & Keith,8,"Lal Bahadur Shastri Rd, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0723864,72.8756851,400070,,,FALSE,
+,,,"Unit 35, Ground Floor, Infiniti Mall, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1412127,72.8309064,400064,,,TRUE,Infiniti Mall
+,,,"462, Senapati Bapat Marg, Lower Parel West, Lower Parel, Mumbai, Maharashtra 400013",18.9948342,72.8246722,400013,,,FALSE,
+,,,"Mumbai, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.1020767,72.9128351,400086,,,FALSE,
+,,,"New Link Rd, Malad, Malad West, Mumbai, Maharashtra 400064",19.1889341,72.8354551,400064,,,FALSE,
+,,,"Store No. 19, Viviana Mall, Eastern Express Hwy, Laxmi Nagar, Thane West, Thane, Maharashtra 400606",19.2087175,72.9715119,400606,,,TRUE,Viviana Mall
+,,,"Shop Number 27 Plot number R 1 Upper ground floor Grand Centers Sawoods Railway Station, Sector 40, Seawoods, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,FALSE,
+,,,"11, P Tandon Rd, Phase D, Highland Park, Andheri West, Mumbai, Maharashtra 400053",19.1412889,72.8310453,400053,,,FALSE,
+,,,,,,,,,,
+,Clarks,9,"Building No 59, R City Mall, Lal Bahadur Shastri Rd, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.9999654,72.828525,400013,,,FALSE,
+,,,"Inorbit Rd, Malad, Mindspace, Goregaon West, Mumbai, Maharashtra 400104",19.1729157,72.8360088,400104,,,FALSE,
+,,,"C/O SSIPL Lifestyle Pvt. Ltd. Shop No. F-49 First Floor Inorbit Mall, Malad West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,TRUE,Inorbit Mall
+,,,"CSIA Domestic Terminal Chhatrapati Shivaji International Airport Terminal 2, Navpada, Area, Vile Parle, Mumbai, Maharashtra 400082",19.0974373,72.8745017,400082,,,FALSE,
+,,,"Shop No. 1, Plot No. 710, Bharat Bhavan Building, Next Johnston & Murphy, Khar West, Mumbai, Maharashtra 400052",19.0683937,72.8338003,400052,,,FALSE,
+,,,"G - 57, Phoenix Market City, Lal Bahadur Shastri Rd, Kurla West, Mumbai, 400072",19.0863795,72.8889774,400072,,,FALSE,
+,,,"Unit No Ff - 6, Vivana City Mall, Pokhran Rd, near Jupiter Hospital, Thane, Maharashtra 400601",19.2087175,72.9715119,400601,,,TRUE,Vivana City Mall
+,,,"UG - 57, Seawoods Grand Central Mall Seawoods Station Road Upper Ground Floor, L&T Mall Plot No R-1,S, Sector 40, Nerul, Navi Mumbai, Maharashtra 400706",19.0218844,73.0185706,400706,,,TRUE,Seawoods Grand Central Mall Seawoods Station Road Upper Ground Floor
+,,,,,,,,,,
+,Converse,2,"Infiniti Mall 2, New Link Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall 2
+,,,"Unit LG - 9, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,,,,,,,,
+,Hush Puppies,13,"telephone exchange, near, oppsite Rbl bank, Linking Rd, Avanti Society, Khar West, Mumbai, Maharashtra 400052",19.0683628,72.8333745,400052,,,FALSE,
+,,,"Unit G, 12 462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",18.995035,72.8241875,400013,,,FALSE,
+,,,"Unit G - 8A, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0847048,72.8904362,400070,,,FALSE,
+,,,"Cresent House, SBS Road, 27, Colaba Causeway, Colaba, Mumbai, Maharashtra 400039",18.923278,72.8319391,400039,,,FALSE,
+,,,"Unit UG, 30, Inorbit Rd, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1729281,72.8359056,400064,,,FALSE,
+,,,"Shop GF 36, Eastern Express Hwy, opposite Jupiter Hospital, Laxmi Nagar, Thane West, Thane, Maharashtra 400606",19.2097096,72.9723931,400606,,,FALSE,
+,,,"Mumbai, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra 400047",19.1435906,72.8246291,400047,,,FALSE,
+,,,"New Link Rd, Malad, Mindspace, Malad West, Mumbai, Maharashtra 400064",19.1834884,72.8357572,400064,,,FALSE,
+,,,"UNIT NO.104 FIRST FLOOR NEW LINK ROAD INFINITY MALL, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,
+,,,"ELITE IDEAS RETAIL LLP T 1 C, GATE (A5, A6 MUMBAI AIRPORT SANTACRUZ, Maharashtra 400099",19.0931403,72.8567534,400099,,,FALSE,
+,,,"R City Mall, HUSH PUPPIES UNIT NO. G-34, GROUND, Lalbahadur Shastri Rd, Ghatkopar, W, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,R City Mall
+,,,"Ground Floor, Inorbit Mall, G-1, Sector 30A, Vashi, Navi Mumbai, Maharashtra 400703",19.0657149,73.0007589,400703,,,TRUE,Inorbit Mall
+,,,"UNIT NO. G-8A GROUND FLR PHOENIX MARKET CITY, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,,,,,,,,
+,Vans,3,"Infiniti Mall 2, Unit No.SF/243, 2nd Floor, New Link Rd, Malad West, Mumbai, Maharashtra 400064",19.1848469,72.8345642,400064,,,TRUE,Infiniti Mall 2
+,,,"F8 R City Mall, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0996854,72.9163939,400086,,,TRUE,F8 R City Mall
+,,,"65, Lal Bahadur Shastri Rd, Patelwadi.Kurla, Kamani, Ashok Nagar, Kurla, Mumbai, Maharashtra 400072",19.086091,72.8888042,400072,,,FALSE,
+,,,,,,,,,,
+,Wildcraft,12,"Second Floor, Infinity Mall Unit No.SS231, New Link Rd, West, Mumbai, Maharashtra 400064",19.1412127,72.8309064,400064,,,TRUE,Infinity Mall Unit No.SS231
+,,,"F-02A, First Floor Growel Mall Phsae 2 City Survey No 151 Akurli Taluka-Borivali District, Kandivali East, Mumbai, Maharashtra 400101",19.201626,72.8606038,400101,,,TRUE,First Floor Growel Mall Phsae 2 City Survey No 151 Akurli Taluka-Borivali District
+,,,"Unit F, 30, Lal Bahadur Shastri Rd, Amrut Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",19.0993482,72.9164668,400086,,,FALSE,
+,,,"3RGJ+VVH, Vithaldas Nagar, Santacruz West, Mumbai, Maharashtra 400052",19.0771875,72.8322344,400052,,,FALSE,
+,,,"G - 02, Lal Bahadur Shastri Rd, Kamani, Kurla West, Kurla, Mumbai, Maharashtra 400070",19.0863795,72.8889774,400070,,,FALSE,
+,,,"Service Rd, Laxmi Nagar, Thane West, Mumbai, Maharashtra 400610",19.2019866,72.9663611,400610,,,FALSE,
+,,,"Shop No. 3 & 3A, Ground floor, Kenilworth Shopping Arcade, Linking Rd, next to KFC, Bandra West, Mumbai, Maharashtra 400052",19.065176,72.8338089,400052,,,FALSE,
+,,,"Shop No. 1, Popatlal Niwas W, Ranade Rd, Dadar, Mumbai, Maharashtra 400028",19.0220761,72.8390839,400028,,,FALSE,
+,,,"101, Akurli Rd, Kandivali, Akurli Industry Estate, Kandivali East, Mumbai, Maharashtra 400101",19.2032827,72.8595018,400101,,,FALSE,
+,,,"Shop No. 39, Palm Beach Rd, Sector 30A, Vashi, Mumbai, Maharashtra 400703",19.0694705,73.0020742,400703,,,FALSE,
+,,,"GROUP NO 8, opp. SANDESH COLLEGE, Tagore Nagar, Vikhroli, Mumbai, Maharashtra 400083",19.1161569,72.9335773,400083,,,FALSE,
+,,,"Unit F6, Seawoods Station Rd, Nerul, Navi Mumbai, Maharashtra 400706",19.021116,73.0176439,400706,,,FALSE,
+,,,"Next to Kotak Bank Pandit, Pt Malaviya Rd, opposite Khau Ghar, Ramnagar, Dombivli, Maharashtra 421201",19.2170657,73.0880652,421201,,,FALSE,
