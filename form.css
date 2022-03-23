@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://raw.githubusercontent.com/KishanMishra1/Datasets-Here/main/_25_animated-space-wallpaper-gif_best-free-space-gifs-gfycat.gif');
+  
+      margin: 0;
+      padding: 0;
+    
+      font-family: "Poppins", sans-serif;
+    }
+.box {
+    background: #fff;
+    width: 50rem;
+    padding: 3rem;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+} 

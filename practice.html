@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Questions</title>
+    <head>
+        <center>Javascript Assignments</center><br><hr>
+    </head>
+
+    <!-- Question 1-->
+    <script>
+        var firstname="Lata"
+        document.write(firstname)
+    </script>
+    <hr>
+
+    <!-- Question 2-->
+    <script>
+        function hello(s){
+            return 'Hello world';
+
+        }
+        document.write(hello())
+    </script>
+    <hr>
+
+    <!-- Question 3-->
+    <script>
+        function a(){
+            return "Hello a!";
+        }
+        function b(){
+            return "Hello b!";
+        }
+        document.write(a()+"<br>"+b());
+    </script>
+    <hr>
+
+    <!-- Question 4-->
+    <script>
+        function greet(s){
+            return "Hello"+" "+ s +"!";
+        }
+    
+
+        document.write(greet("Ada"));
+    </script>
+    <hr>
+
+    <!-- Question 5-->
+    <script>
+        function add(s){
+            k=s.split("+")
+            return parseInt(k[0])+parseInt(k[1])
+        }
+    
+        
+
+        document.write("Answer : "+add("102+17"));
+    </script>
+    <hr>
+
+    <!-- Question 6-->
+    <script>
+        function addwithsurcharge(a,b){
+            var sur=0;
+           if (a<=10 && b<=10)
+           {
+               return a+b+2;
+           }
+           else if (a>10 && b>10)
+           {
+               return a+b+4;
+           }
+           else{
+               return a+b+3;
+           }
+        }
+
+        document.write(addwithsurcharge(5,15));
+    </script>
+<hr>
+
+<!-- Question 7-->
+<script>
+    function isThreedigit(n)
+    {
+        if( n>=100 && n<1000)
+        {
+            return 'True';
+
+        }
+        else
+        {
+            return 'False';
+        }
+    }
+    
+    document.write("isthreedigit(500) :"+isThreedigit(500))
+    document.write("<br>")
+    document.write("isthreedigit(50) :"+isThreedigit(50))
+</script>
+<hr>
+    
+</body>
+</html>
