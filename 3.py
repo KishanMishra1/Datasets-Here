@@ -64,7 +64,7 @@ if n%4==0:
     else:
         print("Its not a leap year")
 else:
-    print("Its not a leap year")'''
+    print("Its not a leap year")
 
 hr=eval(input("Enter a hour between 1 and 12:"))
 ap=input("AM/PM:\n")
@@ -75,7 +75,13 @@ if fhr+hr>12:
 else:
     res=fhr+hr
     ap+"AM"
-print("{}{}".format((res),ap))
+print("{}{}".format((res),ap))'''
+
+def hcf(a,b):
+    if b==0:
+        return a
+    else:
+        return hcf(b, a%b)
     
 
     
